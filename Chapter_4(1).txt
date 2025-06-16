@@ -1,0 +1,335 @@
+Escaping Echo Chambers
+
+
+
+
+Imagine that you have been elected to your local city council and you want to figure out whether a potential new gun-control law banning concealed handguns would help reduce the city’s crime rate. To determine if this type of legislation has a track record of success, you look at data from across the country, comparing cities that passed these laws in the preceding few years to cities that have not. You find that, among cities that did not ban concealed handguns, 225 experienced an increase in crime, while 75 saw their crime rates decrease. However, among cities that did ban concealed handguns, 105 experienced an increase in crime, while crime went down in 20.
+
+Take a moment to crunch the numbers. Is this type of gun-control legislation effective?
+
+Now imagine a different scenario. This time, you are working at a medical office and need to evaluate the efficacy of a new skin cream being sold as a cure for a nasty kind of rash. Once again, you do a comparison. Of patients who were not prescribed the new skin cream, 270 experienced a worsening of the rash, while 90 got better. Among patients who did use the new skin cream, 126 experienced a worsening of the rash and 24 got better.
+
+Was this skin cream effective?
+
+Now compare this answer to the previous question. Did you come to the same conclusion as you did for gun control?
+
+The correct answers, based on these data (which are entirely hypothetical, by the way), is that neither the skin cream nor this gun-control legislation was effective. These questions are designed so that their answers are not obvious at a glance. But if you do the math, rashes improved among 25 percent of the patients who did not use the cream (90 / [90 + 270] = .25), but among only 16 percent of patients who did (24 / [24 + 126] = .16). Likewise, if you enter the numbers for gun control into the same equations, it reveals that crime rates decreased for 25 percent of cities without the gun-control legislation, but only 16 percent of cities that had enacted it. Expressed in reverse, the skin cream and the law were associated with worsening outcomes 84 percent of the time, while not using the cream and not enacting the law were associated with worsening outcomes only 75 percent of the time. Not a good skin cream and not a good law!
+
+Although these two questions are mathematically identical, a funny thing happens when people complete them in research studies. A 2013 experiment by Yale law professor Dan Kahan and his colleagues found that American participants with reasonably good math skills tended to answer the question about the skin cream correctly. But when the question was about gun control, they often got it wrong.1
+
+What’s the difference? While skin care is a low-stakes issue for most people, gun control is not. In the United States particularly, any public policy involving guns tends to be a hotly contested political issue. When people answered the question about gun control, their math skills did not matter as much as their political identities. The mathematically correct answer about gun control should appeal to some partisans but dismay others. As a result, people whose political identities and beliefs aligned with the correct interpretation of these data were more likely to get the problem right.
+
+Do you believe that gun control is effective and important? If so, you are less likely to have answered the question we gave you about gun control correctly. But if you do not believe in gun control, this question was likely easier for you. In fact, it probably felt like you knew the answer all along.
+
+As we structured the question above, the right answer is that this particular gun-control law did not work—and in this case, Democrats in Kahan’s study were less correct in their answers than Republicans. But as we said, the numbers in these questions are completely hypothetical and for other participants in the study, the correct answers were reversed. In that case, when the mathematically right answer was that gun control worked, Republicans were less likely to get it correct than Democrats.
+
+Even among the most mathematically skilled participants in the study, partisans were 45 percent more likely to answer the gun-control question incorrectly when the right answer challenged their political beliefs. In short, their political identity seemed to make them dumber.
+
+
+
+
+
+Rising Partisanship
+
+
+Why does someone’s political identity affect his or her ability to solve a math problem? The answer lies in a phenomenon that has become increasingly visible in public life: political partisanship. People identify with political leaders, parties, and belief systems, and these identities shape everything from how they apply their analytical skills in assessing public policies to voting behavior to dating.
+
+In the political domain, the basic ingredients of social identity that we have discussed in this book can be amplified by sorting into highly competitive and oppositional political parties, by messages from partisan news sources, and by manipulation from political leaders and elites. The flow of information on social media also seems to play an increasingly important role.
+
+At present, the United States, Canada, Britain, Brazil, Hungary, and many other countries around the world are experiencing intense political polarization.2 In the U.S., this takes the form of conflict between Democrats on the left and Republicans on the right; in Britain, it recently manifested as conflict over the decision to leave or stay in the European Union (known as “Brexit”); in Brazil, it is reflected in support or opposition toward President Jair Bolsonaro, a divisive conservative leader. In Canada, liberals and conservatives have also become increasingly polarized, as they have in New Zealand, Switzerland, and other countries.
+
+These trends have caused people to place greater emphasis on political identities than they used to, with effects on many aspects of their lives, from romance to how they project themselves on social media.3 For instance, U.S. Twitter users are adding political words to their bios at a higher rate than words associated with any other social identity.4 People are now more likely to describe themselves by their political affiliation than their religious affiliation. If we live in an age of identity, politics is increasingly the identity that matters for many people.
+
+People spend less time together at Thanksgiving dinner if they disagree with their family members’ politics.5 Partisanship has even infiltrated romance.6 Dating between members of different political parties is now more of a taboo among Americans than interracial dating. We ran a study on this around the time of Donald Trump’s inauguration and found that fewer than one-quarter of people were willing to date someone from across the political aisle.7
+
+Political disagreements and debates have always existed, and they are critical to healthy societies and robust democracies. But it is the nature of polarization to shift the psychology of social identity from in-group love (the normal sorts of preferences we have for our own groups) to out-group hate. Indeed, some political partisans may be more motivated by strong dislike of the opposition than by any special fondness for their own side. We hear people say that they are not voting for a candidate they like but against one whom they fear or despise.
+
+Consistent with this, in the United States, survey data suggest that out-party hate has become more powerful than in-party love as a predictor of voting behavior.8 This brand of hyper-oppositional political conflict includes worrying tendencies to view the other side as fundamentally different or alien to oneself, to strongly distrust the opposition and their intentions, and to view them as morally corrupt.
+
+In this chapter, we explore the origins and dynamics of political conflict, how elements of the contemporary social environment have made it worse, and what we can do about it. Partisanship can lead people to reject evidence that is inconsistent with the party line or that discredits their leaders. And when entire groups of people deny facts in the service of partisan agendas, it can cause behaviors and policies that divide and damage societies. Our data and analyses are, admittedly, centered on the United States, but similar underlying group dynamics are playing out in many nations.
+
+
+
+
+
+Political Brains
+
+
+The real problem of humanity is the following: We have paleolithic emotions, medieval institutions, and godlike technology.
+
+—E. O. Wilson, “Looking Back, Looking Forward: A Conversation with James D. Watson and Edward O. Wilson”
+
+
+
+Political differences have interesting links to human biology. Many people share the same policy preferences and party identification as their parents. We might expect that this is largely due to how they were raised, their views having been shaped by countless conversations around the dinner table. Many people assume that our politics are the product of social conditioning.
+
+But it turns out that many of us are biologically predisposed to like certain parties and leaders. Research finds that nearly half of people’s political beliefs have a genetic component. For instance, identical twins (who share 100 percent of their genetic material) are far more likely to share similar politics than nonidentical twins or siblings (who share a mere 50 percent).9 Thus, if you split up identical twins as infants and placed one in a family of progressive liberals and the other in a family of staunch conservatives, there is a decent chance they would both eventually gravitate toward the same political party.
+
+A few years ago, Oscar-winning actor Colin Firth speculated that liberals and conservatives must have different brains. He teamed up with a group of neuroscientists at University College London and together they launched a pair of studies in which they performed neuroimaging scans on the brains of a large number of liberals and conservatives.10
+
+What they found was quite amazing. It turns out that they could predict people’s political leanings with 72 percent accuracy simply by examining certain brain structures.
+
+They looked at distinctions in the volume of gray matter that people had in different areas of the brain. Conservatives tended to have larger amygdalae; liberal participants tended to possess larger anterior cingulate cortices. Both regions are involved in a number of psychological processes, including how people react to emotional factors, social status, and conflict.
+
+Mr. Firth is almost certainly the only person to win an Academy Award (Best Actor for The King’s Speech) and publish a neuroscientific journal article in the same year. The research revealed clear neurological differences between people on different sides of the political spectrum and inspired our own foray into political neuroscience, further examining the particular role of the amygdala.
+
+In a project led by Hannah Nam, Jay conducted a similar pair of studies at New York University with the aim of linking brain differences to actual political behavior. The research identified a similar pattern: slightly larger amygdalae in people who reported preferring the status quo to social change (a preference that is typically linked to conservatism).11
+
+More important, though, we followed up a year later with the people whose brain structures we had measured to see if the size of this region predicted real political behavior. It did!12 We found that people with smaller amygdalae were more likely to have engaged in progressive liberal protests and collective action. In other words, people with less gray-matter density in this social-emotional brain region were more likely to report attending Black Lives Matter rallies, the March Against Climate Change, and even Occupy Wall Street.
+
+What does this mean? It is not, of course, the case that people’s genes or brains are preset to admire or endorse any particular politician, party, or policy. The specific political issues we grapple over in the twenty-first century—climate change, rights for members of sexual minority groups, minimum-wage hikes, and so on—are different from many of the concerns people had in the 1800s, let alone in the ancestral environments where humans evolved. What is more likely is that a person’s biology predisposes him or her to experience the world in certain ways, ways that make specific political positions, parties, and leaders more or less appealing.
+
+Conservatives, for example, tend to be more uncomfortable with change than liberals, preferring, all else being equal, that things remain the same.13 They also tend to be more comfortable than liberals are with social hierarchies, preferring clear delineations of status and power. Both of these preferences probably have something of a biological basis, emerging from the ways that a person’s nervous system responds to events. Some things feel more right or comfortable. Some situations cause more anxiety or concern. And these reactions to events orient the person toward different places on the political spectrum within their society.
+
+People who enjoy change or who find flatter hierarchies and equity more pleasing find themselves more attracted to liberal positions. People who find change aversive or who want it to be clear who is in charge are drawn to more conservative positions.
+
+The amygdala is a brain region involved in all sorts of emotional processes. Among other things, it has been linked to social hierarchies and social status in humans as well as in other species. In one brain-imaging study with humans, for example, the amygdala was involved when people learned about a new social hierarchy.14 It is speculative, but people with more gray matter in this region may pay more attention to social rankings and, partially as a result, be more attracted to social arrangements that maintain hierarchies and policies that protect them.15 Ultimately, they may be less willing to engage in activities that disrupt existing social arrangements, like protests.
+
+As provocative as they are, biological differences like this are only part of the story. There is a chicken-or-egg problem with this type of brain data—we do not know if people’s brain differences led to different political beliefs or if different types of political beliefs changed their brains.
+
+More generally, while biological factors might attract people to certain types of politics, once they develop political identities, they look for cues about how to be good group members and filter events through the lens of that identity. People often sort themselves into groups of like-minded partisans, joining politically agreeable organizations, moving to more homogenous communities, and selectively tuning into certain brands of the evening news. And more recently, people have brought their politics online, where, it appears, partisan impulses often run wild.
+
+
+
+
+
+Online Politics
+
+
+In the early days of the internet and social media, there was great excitement about the connective possibilities of these new technologies. Anyone could log on and interact not only with family and old friends but with a myriad of people from different backgrounds and cultures. These were to be portals to a new interconnected world in which humans could build a new sort of shared reality.
+
+This much came true: we do live in a new world, more interconnected than at any point in history. The number of social media users around the globe, for example, totals well over four billion people.
+
+But while people are certainly more connected in one sense, these technologies may have done just as much to divide them. They enable people to interact across cultures and borders, but they have also made it easier for people to seek out information that affirms their identities and confirms their beliefs. Instead of fostering human understanding, some social media companies have developed and monetized platforms and reward systems that facilitate some of the worst impulses of our partisan identities.
+
+Research by our collaborator Molly Crockett has found that the internet is now a greater source of outrage for people than the lives they live offline.16 Most of us rarely encounter immoral acts in our day-to-day physical lives. But online, it is another matter. In fact, people reported encountering more than three times as many immoral acts online as they do in print media, TV, and radio combined!17
+
+How often have you seen a person steal a purse or verbally assault someone? It happens, but in most places it is quite rare. However, on the internet, events like these are available for everyone and anyone to witness. The internet exposes users to a vast array of wicked acts, from neglectful parents or pet owners to bullying, corrupt politicians, and even the horrors of genocide.
+
+The internet is a bottomless pit of depravity if you want it to be. You can log in and find enough immorality to keep your rage at a steady boil. As a result, people in Crockett’s analysis reported experiencing significantly more outrage from online encounters than from interactions in any other part of their lives. Sadly, people also reported being significantly more likely to encounter information about immoral acts than about moral ones.
+
+Negative reactions to events encountered online can have important and productive functions. Feelings of anger or guilt in response to injustices, for example, can motivate collective action. Twitter was credited with facilitating the Arab Spring uprisings in 2011, when citizens from countries across the Middle East and North Africa fought for greater freedoms from authoritarian regimes. Likewise, when people see videos of police brutality on Facebook or Twitter, it can move them to protest, run for political office, or fight for social change. We will discuss these dynamics of protest and change in more depth in chapter 7.
+
+In many ways, these technologies have made people better informed than they were in the past. They have also helped people find like-minded others with whom they can form supportive communities that they might otherwise lack. The tremendous value of connective technologies like videoconferencing became particularly apparent during the COVID-19 pandemic, which forced people everywhere to separate physically. Suddenly the two of us were teaching entirely online. Our scientific conferences shifted to virtual venues. And we coordinated much of the writing of this book via text message, exchanging thousands of thoughts as they occurred to us.
+
+But there is a growing awareness that these technological innovations, and social media in particular, have a dark side.
+
+
+
+
+
+Inside the Echo Chamber
+
+
+“Join us in the streets! Stop Trump and his bigoted agenda!” read an announcement on the Black Matters U.S. Facebook page. The rally attracted roughly ten thousand protesters, who marched from Union Square, a few blocks from Jay’s apartment in New York City, to the gilded entrance of Trump Tower near the southern edge of Central Park.
+
+Around the same time, in the run-up to the 2016 presidential election, the Florida Goes Trump organization arranged rallies in more than twenty cities across the Sunshine State. News releases touting these events were ripped straight from Trump’s stump speeches, encouraging “patriots” to help “Make America Great Again!”
+
+Although these initiatives had the rhythm and cadence of grassroots political events, they actually had far more sinister origins. In a legal indictment, special counsel Robert Mueller later revealed that both of these organizations were fronts for a massive Russian scheme to manipulate the election and disrupt the democratic process. In particular, the Russians sought to turn Americans against one another by appealing to their political identities.
+
+Throughout the election season, Russian propagandists ran divisive ads on Facebook and posted content on Twitter targeting issues such as gun control, civil rights, and fears about “the other,” including immigrants and Muslims. In one message, Hillary Clinton’s head, complete with red horns, was photoshopped onto the body of a devil as she squared off to fight Jesus. The headline “‘Like’ if You Want Jesus to Win!” was plastered at the top of the image, with the words Army of Jesus in small print at the bottom. Facebook estimates that up to one hundred fifty million people saw ads like this in the months leading up to the 2016 election.
+
+It was obvious that these ads were memes designed to appeal to and inflame partisan conflict. The messages included potent symbols of American identity: the Stars and Stripes, cowboys, even a heroic cartoon of a chiseled Bernie Sanders wearing nothing more than a red Speedo.
+
+This disinformation campaign was not simply a matter of spreading falsehoods that could be rooted out with fact-checking—these ads were designed to drive a wedge between Americans. Russian propaganda usually brings to mind Cold War–era images of Stalin and Lenin towering over brigades of soldiers or rows of missiles, but propagandized memes in the age of Facebook and Twitter are different, rich with the language and imagery of contemporary social identities. And these messages tend to get amplified by the most extreme partisans.
+
+There has been a great deal of concern recently about how algorithms on social media platforms might be creating “filter bubbles,” in which people are largely shown news, opinions, and memes that are consistent with their beliefs. Facebook and YouTube want to give users maximally pleasant experiences online, so news feeds and recommended videos may avoid exposing people to things they do not want to know. Worse, certain kinds of algorithms can lead people down rabbit holes into increasingly extreme information environments.
+
+It is not clear how much of a problem this actually is. It is hard to pin down exactly what platforms’ algorithms are doing, partly because the mechanics behind these algorithms are hidden from the public, partly because they change all the time, and partly because different platforms do different things. And it is certainly the case that social media companies, especially the large ones, have become more attentive to the potential problems of filter bubbles and radicalization. However, the sorts of psychological and identity-related dynamics we have discussed in earlier chapters point to a variety of ways that people can be led into belief-confirming information bubbles even without the input of social media algorithms.
+
+People often selectively affiliate with those who are similar to themselves, maintaining connections to people they agree with and blocking or un-friending everyone else. Further, even if their media feeds contain a diversity of perspectives, they may selectively pay attention to and remember identity-consistent information—the “facts” that confirm their social realities. They are more attuned to in-group norms and likely to let the consensus among like-minded people shape their own opinions on issues. And they may seek to signal these identities to the world by sharing and resharing identity-consistent information.
+
+In the social media age, conversations about political, social, and cultural issues have moved from discussions among family at the dinner table or friends at the local tavern to a much wider public sphere. This shift has allowed researchers like us to analyze some of the psychological elements driving political discourse on a massive scale. We have started to examine how identities get expressed online and how divisive language can foster intergroup conflict (and vice versa).
+
+People are now bombarded with information. By one estimate, the average social media user scrolls through more than three hundred feet of content every day.18 If you own a six-inch smartphone, this means you swipe your screen about six hundred times a day on one social media platform or another—roughly the equivalent of scrolling down the length of the Statue of Liberty, inch by inch.
+
+To examine how people filter this overwhelming amount of information, Jay and his former students Billy Brady and Ana Gantman ran laboratory experiments using classic measures of attention to see what kinds of messages would jump out at people.19 Participants saw words and messages streaming across a computer screen similar to what they see while scrolling through their social media feeds. The words varied in content. Some were fairly neutral in tone (for example, thing, motorcycle), while others were much more emotional or moralistic (weep, pure, holy, afraid). Perhaps unsurprisingly, people’s attention was captured more readily by emotional and moral words than by neutral ones. We reasoned that this may be how the attention economy works, by grabbing viewers’ attention with visceral language, which might lead them to share those messages with their own social networks.
+
+To test this, we analyzed a large sample of more than half a million real messages on Twitter with content related to contentious political topics, including gun control, same-sex marriage, and climate change. Sure enough, we found that the same sorts of words that had captured our participants’ attention in the lab were also more likely to be shared by real users on Twitter.
+
+We found that for each moral-emotional word included in a tweet, the chance that another person would retweet that message increased by roughly 15 percent. Interestingly, purely moral words (like mercy and right) or purely emotional words (like afraid and love) didn’t have the same impact. It was words that combined moral connotations with emotional reactions—words like hate, shame, and ruin—that packed the biggest punch.
+
+We also found that the more moral-emotional words people used in a message, the more likely it was to spread beyond their followers. If someone jammed four or five of these words in a tweet, it was likely to spread even further. People typically retweet messages to their social network because they endorse the content and trust the source. But moral-emotional words appear to add rocket fuel to this decision. Messages go viral when they capture attention.
+
+A cheeky student at another university read our paper about this study and decided to compose a tweet consisting almost entirely of the fifteen most powerful moral-emotional words: attack, bad, blame, care, destroy, fight, hate, kill, murder, peace, safe, shame, terrorism, war, and wrong. As if to prove our point, his message was quickly shared more than eight hundred times and liked by another seventeen hundred individuals! Even in jest, certain words have power.
+
+This pattern of moral contagion was observed in every topic we studied, from climate change to gun control. We found the same pattern for people on the left and the right (though the effect was slightly stronger on the right), on different social media platforms, and among political leaders and regular citizens. It also held for people with large or small social networks and for positive or negative messages. Whether people were talking about honor or hatred, moral-emotional language resonated far beyond their immediate social networks.
+
+If you are hoping to go viral, you might be thinking about using these sorts of words in your next social media post. But we should warn you that, while they can inspire your in-group, they might well alienate people on the other side. Indeed, that may often be the point.
+
+
+
+
+
+Sowing Division
+
+
+I think social media has more power than the money they spent.
+
+—Donald Trump, 60 Minutes
+
+
+
+Many political leaders and their advisers understand the power of evocative language on social media. It’s hard to find a better example of this than Donald Trump, who tweeted extensively throughout his campaign and one-term presidency (until ultimately being banned from Twitter after the January 6, 2021, insurrection due to “the risk of further incitement of violence”). In his first national interview after winning the 2016 election, Trump claimed that social media had helped make up for the fact that the Clinton campaign outspent his by roughly five hundred million dollars.20 But what did he do to harness the power of social media?
+
+To find out, we analyzed how he and other political leaders used Twitter.
+
+In a project led by Billy Brady, we examined the Twitter accounts of every American political leader elected to federal office in 2016. In the year leading up their elections, these officials had posted a whopping 286,255 messages on the platform.21 Although many of these politicians presumably had staffers to help manage their online messaging, we nevertheless found the same pattern as among everyday citizens: the use of moral-emotional language was one of the best predictors of whether their messages went viral.
+
+From the least prominent congressional candidates to well-known senators, the average politician saw more than a 10 percent increase in retweets for every moral-emotional word used in a message. One of the most notable beneficiaries was, of course, Donald Trump. When we analyzed Trump’s account, we found that every moral-emotional word he used increased the chance of his message being retweeted by 25 percent. In his case, we are talking about messages that were being retweeted tens of thousands of times and driving discussion—and sometimes policy—on national and international issues.
+
+When we looked more closely at Trump’s most viral messages, we saw they tended to include the language of collective victimization. Words like blamed, brutal, hurt, abandon, victims, steal, abuse, and guilty were among the most powerful terms he used in the year leading up to the election. Playing the victim was an effective tool for spreading his gospel.
+
+We suspect this language was designed to mobilize his supporters while sowing divisions within the rest of the country. Making the people in your group feel that they have been attacked creates the perception that you are all under threat, and when this is done via social media, it serves as a cheap and powerful strategy to generate a shared sense of identity.
+
+Despite their potential to go viral, however, retweets inspired by partisan language rarely crossed ideological lines. We were able to estimate the political identities and ideologies of a sample of Twitter users by examining whom they followed and who followed them. For instance, if you followed Hillary Clinton and Barack Obama, you were more likely to be a liberal/Democrat; if you followed Donald Trump and Mitt Romney, you were more likely to be a conservative/Republican. If you followed all of them, you were likely to be a moderate, a member of the press corps, or just confused!
+
+In the analysis of tweets by ordinary citizens that we described above, we found that when they used and responded to moral-emotional language, they ended up in disconnected echo chambers. Liberals tended to retweet messages from other liberals and conservatives from other conservatives. While messages with moral emotions spread like wildfire within these groups, they rarely seemed to appeal to people across the political divide.
+
+Of course, some tweets do more than just deploy highly charged words; they actively derogate the other side. We recently analyzed this type of hyper-oppositional language on Twitter and Facebook in a project led by colleagues Steve Rathje and Sander van Linden. This time, we were able to examine more than 2.7 million messages across these platforms.
+
+Every time a negative message described an out-group member, it was associated with a massive increase in sharing. And when these messages came from a congressperson’s account, the out-group-directed message increased sharing by up to 180 percent, dwarfing the impact of moral-emotional language on its own. On Facebook, posts about the out-group also elicited the most angry reactions, fueling the expressions of moral outrage that now dominate so much of political discourse online.
+
+It is tempting to discount online conversations as not being “real life.” But any divide between life online and life in the real world has become so blurred as to be nearly meaningless. Online activity drives real-world behavior, and activity on social media is increasingly leaking into real life. For instance, one analysis by Marlon Mooijman and his colleagues found that the hourly frequency of moralized tweets during anti-police protests predicted later numbers of arrests during protests, suggesting that online moralization was associated with and might have been a contributor to conflict on the streets.22
+
+Divisive language can be highly rewarded on social media, in part due to platform design. On Facebook or Twitter, you can Like comments that you appreciate with the click of a button, while it takes more effort to register your disdain. Thus, when people post provocative content, they readily see affirmation from like-minded partisans, while reservations that their friends and families might hold are harder to register. The system reinforces people’s more extreme expressions of opinion and obscures the disdain or eye-rolls that would normally accompany those same statements if they were made at work or over dinner. This incentive structure may increase engagement and profits for social media giants, but it can lead citizens further down the path of intergroup separation and conflict.
+
+In fact, when we ran a series of lab experiments using disagreeable Twitter messages, we found that people did not want to have a conversation about politics with someone from the other side who used moral-emotional language. They found the comments off-putting and concluded that the message was crafted from someone with a closed mind. This was especially true of people who had the strongest sense of identification with their political party.23
+
+But when people disagreed using less highly charged language, it created an opportunity for dialogue across partisan divides. People are sometimes willing to engage with others on difficult issues, but only when their differences are framed in ways that do not automatically imply that one or the other side is immoral.
+
+Of course, inflammatory language and increasingly separated social networks are not the only problem—or even the most important problem—for politics online. Mis- and disinformation are challenging democratic societies everywhere. And when people possess strong political identities, they may be more vulnerable to false facts, increasing their willingness to believe—and share—factually flawed information that casts opponents in a negative light.
+
+
+
+
+
+Fake News!
+
+
+Remember the Russian propagandists posting polarizing ads on social media? It turns out that this was only the tip of the iceberg in terms of mis- and disinformation during the run-up to the 2016 presidential election. From Macedonia to Michigan, people were generating and sharing fake news stories to manipulate and confuse U.S. voters.
+
+One study estimated that up to 44 percent of adult Americans visited an untrustworthy website in the final weeks before the election, and millions more saw this type of content in their social media feeds.24 Nearly a quarter of Americans reported sharing a made-up news story, and recent research suggests that partisans often think that sharing fake news is morally permissible. Some people knew the stories were dubious, but others might have been fooled because they wanted to believe. One single fake news story, published by a site called WTOE 5 News, reported that Pope Francis had broken with tradition and endorsed Donald Trump for president. This phony story received nearly a million endorsements on Facebook, roughly three times as many as the top story from the New York Times!
+
+Similar waves of fake news washed over other countries, including Britain during the 2016 Brexit vote and Brazil during its national election in 2018. This is an international epidemic. Social media companies and scientists alike have been scrambling ever since to try to understand how and why people spread, and often believe, false facts.
+
+Just as in cults, ordinary citizens look to fellow group members—especially group leaders—to help determine their beliefs. Finding news that affirms their most cherished identities can help people feel a sense of superiority, provide a story to bond over, or reinforce a sense that they are on the right side of history. By fulfilling core social needs and aligning with their prior beliefs, certain news stories are appealing regardless of their veracity. This may explain why the most popular fake news stories highlight the virtues of one group over another. When the pope bestows his fictitious endorsement on Donald Trump, for example, it provides a feeling of reinforcement for conservative Catholics and other Christians who want to feel principled about their political preferences.
+
+The problem is that these social motives and beliefs can outweigh the desire for accuracy, causing people to be overly credulous when it comes to identity-affirming information. We have conducted several studies in which we found that people tend to believe positive stories about their in-groups and negative stories about out-groups, no matter how dubious the information may be.
+
+In a series of experiments led by Andrea Pereira and Elizabeth Harris, we presented real and fake news stories to 1,420 Americans to see how their political identities shaped their reactions.25 Some of these articles were negative fake news stories about Democrats. One headline, for example, claimed that “Hillary Wore Secret Ear-Piece During Debate” and another that “Florida Democrats Just Voted to Impose Sharia Law on Women.” Other articles contained negative fake news stories about Republicans, like one claiming “President Trump Enacts One-Child Law for Minorities.”
+
+We sampled these stories from actual fake or satirical news websites. We found that Republicans were more willing to believe nasty fake news stories about Democrats than about Republicans. Similarly, Democrats were more willing to believe fake news stories about Republicans than about Democrats. To make matters worse, participants’ belief in a fake news story was a powerful predictor of their willingness to share it on social media. The findings were strikingly similar across parties: Democrats and Republicans alike had a blind spot for fake news about the other side.
+
+Skeptics will point out that because we harvested these stories from actual websites, there might have been differences between the stories about Democrats and Republicans. Perhaps one type of fake story was more believable than the other. We had the same concern, so we reran the study but created our own damaging fake news articles that were identical in every detail except whether the target was a Republican or a Democrat.
+
+In this study, people read about a Democrat or Republican who was corrupt in precisely the same way. This study replicated our original results almost exactly, showing again that Republicans and Democrats were guided by their identities to believe bad news about the out-group.
+
+This doesn’t mean there were no differences between the left and the right. One difference was in terms of who was more willing to share fake news with their social networks. While Democrats and Republicans were equally likely to believe fake news about the other side, Republicans were more willing to share it with their friends and family. This might explain why stories like the one about the pope endorsing Trump went viral during the 2016 election cycle.
+
+We do not know exactly why Republicans were more willing to share these stories, but it seems plausible that their party might have had more lenient norms about sharing fake news. Trump himself was a super-spreader of misinformation, and this might have signaled to his supporters that they could place more trust in low-quality news sources or that it was fine to share sketchy information.
+
+We also found a difference in how much partisans on the left and the right believed fake news that had nothing to do with politics. When we gave people false information unrelated to politics—like articles about the British royal Camilla, Duchess of Cornwall, going to rehab or celebrity Leonardo DiCaprio flying an eyebrow artist 7,500 miles to sculpt his handsome brows—Republicans were more willing to believe this as well. It seemed that Democrats were generally more skeptical about fake news unless it was negative news about Republicans, whereas Republicans were generally more likely to believe fake news about a variety of topics.
+
+A great deal of mis- and disinformation spreads on social media platforms and it’s easy to place blame for the resulting political polarization on social media. But these technologies are far from the only way that people end up in ideological cocoons. People can subscribe to a newspaper that bends over backward to affirm its readers’ identities, tune into a news station that feeds them an unhealthy dose of groupthink, or watch their favorite television host foam at the mouth every night before bed. Social media gets lots of the blame but it is only a modest part of the story, which may explain why older people, who have consumed a steady diet of increasingly partisan news for years, are far more polarized than the millennials who grew up on social media. Indeed, some experts believe that the polarization of the mainstream media has been more divisive than the rise of social media.
+
+A phrase famously attributed to Daniel Patrick Moynihan states, “Everyone is entitled to his own opinion, but not his own facts.” Our research suggests that this is wishful thinking when it comes to political partisans. In the contemporary political landscape, comedian Stephen Colbert was closer to the truth when he said in an interview with the AV Club, “It used to be everyone was entitled to their own opinion, but not their own facts. But that’s not the case anymore. Facts matter not at all. Perception is everything.” This is not a good thing because facts do, indeed, still matter. Reality can come back to bite us.
+
+
+
+
+
+A Partisan Pandemic
+
+
+During the early stages of the COVID-19 pandemic, there was no vaccine or medical treatment. Public health experts around the world declared that one of the most important ways to slow the virus was for people to maintain physical distance from one another. For many, this meant staying home as much as possible and dramatically curtailing their patterns of movement. But as officials implored people to stay home and avoid crowds, media images of parties, pub crawls, and packed beaches suggested that these messages were not being heeded by everyone.
+
+There are numerous reasons people might have ignored the advice of public health experts, ranging from the overconfidence of youth to conspiracy theories. But in the United States especially, polls suggested that a partisan divide was partly to blame. An NBC News/Wall Street Journal poll conducted in early March 2020 found that while 68 percent of Democrats were worried that someone in their family could catch the virus, just 40 percent of Republicans were worried. Another poll reported that Democrats were 18 percent more likely to avoid large crowds than Republicans were.26
+
+Why was there such a large partisan gap in concerns about the virus? One possibility is that many conservatives live in more rural, less dense neighborhoods, and many liberals live in cities, which are large and crowded and provide optimal conditions for the virus to spread. Indeed, Jay spent the first few months of the pandemic hunkered down in Manhattan when it was a global hot spot.
+
+But another potential explanation was the dynamics of political identity. Leaders and elites associated with the two parties were sending different messages, which might have shaped their followers’ perceptions of the risks. Prominent voices on the right were openly skeptical about the pandemic. Fox News host Sean Hannity said on his WOR talk-radio program that it may be true that the coronavirus issue was a “fraud” spread by the “deep state,” and his colleague at Fox Trish Regan accused Democrats of using the coronavirus crisis “to destroy and demonize this President.”27
+
+Indeed, the most influential member of the Republican Party, President Trump, was one of the fiercest pandemic skeptics. He initially called concerns about the pandemic a “Democratic hoax” and consistently downplayed the risks of the virus, as well as the importance and effectiveness of measures like distancing.28
+
+To see if partisan attitudes toward the virus were mirrored in real behavior, not just in opinion polls, we examined the physical movement of people in Republican versus Democratic counties and states across the United States.29 We joined forces with Anton Gollwitzer and his colleagues at Yale University and analyzed geo-tracking data from over seventeen million smartphone users to see if people from politically divergent locations engaged in different physical-distancing behaviors. To protect anonymity, we did not use individual smartphone data but looked at levels of movement in entire counties.
+
+The results were startlingly clear. From March 9 to May 8, during the first spike of the pandemic, blue-county citizens stayed home and red-county citizens kept moving. Overall, U.S. counties that voted for Donald Trump over Hillary Clinton in 2016 exhibited 16 percent more movement as well as more visits to nonessential services like restaurants. To be fair, everyone began to distance more and engage in less nonessential movement as the pandemic spread, but as this happened, the partisan gap only increased!
+
+We tested a number of potential explanations. It turns out the partisan gap in movement could not be explained by population density, local rates of COVID-19 infections, economic factors like household incomes and employment rates, or the average age and religious affiliation of the population. Instead, the amount of conservative-media consumption in each county accounted for less physical distancing among the people living there. In other words, the more conservative news consumed, the more people kept moving.
+
+During a deadly pandemic, these partisan differences were anything but trivial. When we analyzed infection and mortality rates, we found that less physical distancing in Republican counties was associated with an increased growth rate in COVID-19 infections and fatalities two weeks later.
+
+This devastating discrepancy did not have to be the case. If Americans had peeked across the border to Canada, they would have observed a different dynamic. Researchers there found no evidence of political leaders from any political party downplaying the pandemic. As a consequence, Canadians exhibited no political differences in terms of physical distancing. This does not mean that Canadians are fundamentally different from their American friends to the south. Rather, leaders and elites in the two countries provided very different cues about what to believe, with real impacts on the behavior and the lives of citizens.
+
+By shaping how people see themselves and what they believe about the world, effective leaders have the ability to bring people together to tackle national and global challenges. One of the best examples of this form of leadership during the pandemic was from New Zealand’s prime minister, Jacinda Ardern. She not only closely followed the advice of scientists in facing the pandemic but helped inspire her citizens to follow the guidelines. She did this by creating a shared sense of identity, calling them her “team of 5 million” and clearly following the guidelines herself.30 (We will talk much more about the relationship between identity and leadership in chapter 9.)
+
+The way that people moved around during the COVID-19 pandemic was one manifestation of a relationship between politics and space. More generally, political differences can cause people to physically separate from one another, and, as it turns out, physical separations might further drive political differences.
+
+
+
+
+
+Crossing the Aisle
+
+
+It was a classic rookie mistake. On January 3, 2019, his first day in office, Andy Kim walked into the House Chamber in Washington, DC, and sat himself down. Normally there would be nothing controversial about taking a seat, but the newly elected congressperson for New Jersey’s Third District had unknowingly seated himself in the Republican section of the House. And he was a Democrat.
+
+“I was just looking around for a seat,” Kim later reported.31
+
+Except that here, in one of the most polarized spaces in the world, a seat is not just a seat. One side of the House Chamber is designated seating for Republicans and the other side is designated for Democrats. The seats are powerful symbols of partisan allegiances. They demark where people belong and, generally speaking, are a pretty good indicator of what people believe. As Truman-era civil servant Rufus Miles put it: “Where you stand depends on where you sit.”
+
+Few places are as sharply or spatially divided as the U.S. Congress, although the consequences for Andy Kim weren’t as bad as they might have been for a fan who sits in the wrong section of some European soccer stadiums. Rifts in space signal and reinforce differences in social identity.
+
+However, Congress is a workplace where people with different political views and party affiliations must interact in order to achieve important objectives. Politicians often need to cross the aisle to broker compromise and pass new laws. Yet people are physically sorted on the basis of their political views. If people need to interact with one another to get things done, does this spatial sorting pose a hindrance to American governance?
+
+Researchers recently applied motion-detection technology to 6,526 videos of Congress in action to examine how Republicans and Democrats moved around the chamber.32 How many times did they literally cross the aisle? As you might expect, Democrats and Republicans were less likely to cross the aisle that divides the middle of Congress than they were to move about in proximity to members of their own party.
+
+More worrisome, however, this trend increased over time. Between January 1997 and December 2012, as the two parties became more polarized in their political preferences, the videos revealed less commingling between members of the two parties after floor votes. Congresspeople spent less time physically interacting with members of the other party.
+
+It is natural to assume that partisan votes might have reduced interaction. But the timing of the pattern suggested it was the other way around—a lack of physical interaction was associated with more polarized voting behavior in the future. Reducing informal interactions might have made it harder to form the friendships and bonds across the aisle that make bipartisan legislation possible, leading to less cooperative voting patterns over time. A lack of interaction might also have made it harder to understand the perspectives of the other side.
+
+Given all of these challenges, then, what might be done?
+
+
+
+
+
+Seeking Antidotes
+
+
+Researchers, policy makers, politicians, and social media executives everywhere are scrambling not only to understand how technological advances are affecting civic life but also to find ways to reduce some of the harms they have caused. There has been an explosion of research on these issues, and new studies come out every day.
+
+It is tempting to think that the solution to echo chambers and filter bubbles is simply to provide people with a more diverse diet of information, exposing them to views and perspectives from the other side. This type of approach assumes that the underlying problem is a knowledge deficit and that if people were only better informed or educated about issues, all would be well. Unfortunately, however, it seems that gaining more knowledge about politics and simply being exposed to a broader array of information is not necessarily going to help.
+
+Can receiving information from outside your partisan echo chamber help reduce political divisions? Sociologist Christopher Bail and his colleagues tested this possibility in a large field experiment. They offered groups of Democrats and Republicans eleven dollars each to follow a Twitter bot that retweeted twenty-four political messages every day for a month.33 Critically, the bot was always of a different ideological persuasion than the participant, and it randomly sent them tweets from accounts belonging to elected officials, opinion leaders, media organizations, and nonprofits on the other side.
+
+Unfortunately, receiving tweets from sources across the political aisle did absolutely nothing to soften political attitudes. In fact, it backfired. Democrats’ attitudes became more liberal after following a conservative account, and Republicans’ attitudes became more conservative after following a liberal account. Simply getting different information is not enough, in part because people are often motivated to dismiss and argue against messages they know are coming from the other side.
+
+An antidote to this could be to remove partisan identity from the equation. One study found, for example, that people can effectively learn about polarized issues like climate change from interacting with partisans on the opposing side as long as social identities remain in the background.34 People were presented with a graph from NASA illustrating the average monthly level of Arctic sea ice over the past thirty-four years. The long-term trend was clearly one of steadily reducing ice, but the most recent year shown on the graph exhibited a modest increase in ice levels. They were then asked to forecast the amount of Arctic sea ice that would be left by 2025.
+
+After reviewing the chart, conservatives were significantly less likely than liberals to interpret the NASA graph in a manner consistent with the long-term trend. But all participants then had a chance to update and potentially improve their estimates by viewing other people’s responses. Exposure to a bipartisan set of responses, rather than responses only from one’s own side, improved everyone’s estimate. However, the ability to learn from others with different perspectives was significantly smaller if people’s party identity or logo was attached to their responses. But if party logos were removed and political identities were hidden, people were more influenced by others and improved their own estimates by nearly 20 percent.
+
+Society might be better served if political symbols were removed from news reports and interviews; this might focus audiences on details of policy proposals rather than partisan loyalties. In normal conversation, people often lead with their identities. This can promote transparency and provide standing on certain issues, but it may also close minds and foster disagreement. We might want to think twice before invoking our political identities if we’re aiming to talk across a divide.
+
+Recent research further suggests that while simply receiving information from political out-groups is not necessarily an effective strategy for tackling polarization, actual interactions between people with different points of view can help. In a recent study, Erin Rossiter randomly assigned a set of Republicans and Democrats to engage in short online chats about political or nonpolitical topics.35 Regardless of what they talked about, participants who had engaged in digital communication with a political out-group member later felt more positively toward the out-group than people who had not had these conversations.
+
+Leaving the online sphere entirely, at least for a time, might also help. In one study done in the fall of 2018, economists encouraged people (sometimes by offering them money) to disconnect from their Facebook accounts for a month.36 Over the course of the month, these people spent less time online and experienced an increase in psychological well-being. They also became less knowledgeable about the news and less politically polarized. Remarkably, the reduction in polarized attitudes observed in a single month was equivalent to about half the total amount that polarization has increased in the United States since the mid-1990s!
+
+Finally, it may be helpful to draw people’s attention more precisely to just how polarized our societies actually are. As we mentioned above, polarization has increased in many places. This is especially true among elites like politicians. Among ordinary citizens, however, it is a bit more complicated. Populations at large are experiencing high levels of what has been called “affective,” or emotional, polarization, with people holding strong feelings of distrust and dislike for political out-groups. When researchers look at people’s opinions on actual issues and policies, however, they tend to find less evidence of polarization.
+
+Certainly there are differences of opinion, but large majorities of people on the left and the right are often fairly close in their attitudes toward even controversial issues. In the United States, for example, people on the left and right are not very far apart in their opinions about health care, certain kinds of gun control, and immigration. Overestimating how much we differ may be an impediment to even trying to reach a compromise. And yet, most of the information people get about politics reinforces the idea of unbridgeable divides. Even the way electoral maps are presented, for example, gives the impression of nations sharply split.
+
+On election night, we are used to seeing maps of the country showing how people in different places voted. In the United States, these maps indicate red Republican states and blue Democratic states. They give the impression of unanimity within each state. But in reality, of course, every state contains a mix of people, and in some cases, the number of people voting for each party’s candidate may actually be very close. A more accurate depiction of voters’ preferences would show different shades of colors—more red for states with more Republican votes, more blue for states with more Democrats, and many shades of purple in between.
+
+A study by Sara Konrath and colleagues showed people precisely these kinds of more proportionally accurate and quite purple maps.37 Compared with people who saw the standard red and blue, these participants subsequently stereotyped their political out-groups less and saw the United States as less divided. Similarly, shattering the stereotypes people have about members of the other party can pave the way for more positive interactions.
+
+As we said, a great deal of research attention is being dedicated to tackling political divisions and their sources online. As consumers of information and as group members themselves, people can use strategies to try to come to less biased and more accurate understandings of issues. Research has found that when people take the time to reason systematically rather than going with their gut intuitions, they are less likely to get suckered into believing fake political news. Deliberate and critical thinking can help people win the tug-of-war between partisan goals and accuracy goals.
+
+Give yourself time to stop and carefully consider the reputability of the source of a news article before you share it with others. Be wary if a story that is damaging to the other side seems too good to be true; those feelings of glee might be a tip-off that you want to believe it, not that you actually do. Consider tuning out distractions from your phone or e-mail the next time you engage with a story about politics. Simply being distracted can reduce your ability to reason carefully about the news. In a project with our collaborators at Cambridge University, we found that increasing accuracy motives can have the same effect; offering people a small incentive for accurate judgments reduces polarization in responses to inaccurate information.
+
+Warning others that they might have been presented with misinformation can also help. In your own groups, try to make fact-checking and questioning assumptions a valued part of the norms and identity. Build an identity grounded in accuracy and constructive feedback.
+
+When you are talking to people across the aisle, try to understand that their identity motives and beliefs might be getting in the way of their seeing your perspective. Remove symbols of identity. If that is not possible, you might be able to frame the issue in language that resonates with their identity and values or at least that acknowledges how meaningful their identity is to them.
+
+We have a long way to go to solve the problems of partisanship while promoting healthy debate over serious issues. But understanding the identity dynamics that underlie these divisions provides a foundation for healthier political spheres where the focus can stay more squarely on the serious matters that affect the lives and well-being of citizens.

@@ -1,0 +1,317 @@
+Sharing Reality
+
+
+
+
+One fall day in 1954, readers of the Chicago Herald stumbled upon a strange story on the newspaper’s back page, an article headlined “Prophecy from Planet Clarion Call to City: Flee That Flood. It’ll Swamp Us on Dec. 21, Outer Space Tells Suburbanite.” The suburbanite in question was a Mrs. Dorothy Martin, and one of the intrigued readers was Leon Festinger, a social psychologist at the University of Minnesota.
+
+Dorothy Martin was a homemaker living in Chicago. She was also the leader of a local doomsday cult. The newspaper informed its readers that Martin believed she could communicate with superior alien beings—known as the Guardians—from the planets Clarion and Cerus, and that they had given her an urgent and ominous warning. According to Martin, the Guardians had been visiting on flying saucers when they’d noticed disturbing fault lines in the Earth’s crust that allowed them to anticipate an imminent and massive flood that would submerge the Western Seaboard of the United States. The aliens, already in close communication with Martin, were kind enough to give her a heads-up, which she had dutifully shared with a local paper.
+
+At the time, Leon Festinger was trying to understand how people dealt with conflicting beliefs; he was puzzled by the fact that people often failed to update their beliefs in the face of logic or counterevidence. Festinger recognized the doomsday prophecy as a perfect opportunity to examine how group dynamics bolster people’s convictions.1
+
+Festinger and a colleague decided to join the cult—known as the Seekers—to collect data as trusted insiders. They wanted to observe how cult members would react on December 21, the day scheduled for the apocalyptic flood. Festinger knew the prophecy was nonsense. He reasoned that this day would mark the moment when cult members were confronted with irrefutable evidence that their expectations were false. He wanted to be in the room when it happened to see how the Seekers would respond when their entire worldview came crashing down.
+
+By the middle of December, Dorothy Martin announced she had received new and exciting information from the Guardians: She and a loyal group of fellow believers would be rescued from the flood! According to this fortuitous update to the prophecy, they would receive a call at midnight on December 21 and it would provide them with the whereabouts of the spacecraft that would whisk them away to safety. This became a source of hope and a cornerstone belief of the group.
+
+On the evening of December 20, the cult members assembled at Dorothy Martin’s house. Only people who could prove they were true believers were allowed in. At the instruction of their leader, they removed all the metal from their bodies, including zippers, bras with underwires, and keys, and waited patiently for their alien escort. It’s not hard to imagine how excited the believers must have felt. They were going to meet the aliens for the first time and experience confirmation of their shared reality. It was a big night for the Seekers.
+
+The midnight hour approached. The cult members waited with anticipation.
+
+When the clock finally struck twelve, members of the cult glanced around, curious as to why nothing had happened. Minutes passed. Some looked concerned.
+
+With a sigh of relief, one member noticed that another clock read 11:55 p.m. That must be the correct time. The aliens would make contact in five minutes!
+
+Then that second clock struck midnight.
+
+Nothing.
+
+Seconds ticked by, followed by agonizing minutes. Minutes turned into hours. The impending cataclysm was now mere hours away.
+
+The group sat in stunned silence, confronted with the cold reality that no one was coming for them and, worse, that their entire belief system was wrong. One member began to cry.
+
+Then, just before 5:00 a.m., Mrs. Martin suddenly received another message: “The little group, sitting all night long, has spread so much light that God had saved the world from destruction.” They weren’t wrong after all! By standing fast and maintaining the faith, the little group of believers had secured salvation for humanity!
+
+The question is, having saved the world, what did they do next? Did they quietly gather up their discarded belongings and retreat back to their families and previous lives? Did they call it a day and move on?
+
+To the contrary, within hours, the Seekers, who had previously shunned interviews, were calling newspapers to broadcast their message of salvation as widely as possible.
+
+Why would the group cling to their belief system even after watching it get debunked? In this chapter, we will explore the lessons that this cult from the 1950s has for our understanding of identity and the nature of belief. Along the way, we’ll discuss the important and often very sensible psychological motives that drive people to conform to group norms. Our world is far too complex and confusing for anyone to go it alone, and conforming to our groups’ norms is also often how we express our valued identities to the world. This usually works well, but it can produce seriously bad outcomes when groups and organizations become cultlike and are driven by groupthink. Still, groups can adopt accuracy goals and evidence-based identities, both of which help improve the beliefs we share and the decisions we make.
+
+
+
+
+
+All Reality Is Social Reality
+
+
+An illusion shared by everyone becomes a reality.
+
+—Erich Fromm, The Dogma of Christ
+
+
+
+At around the same time Festinger was infiltrating the Seekers, social psychologist Solomon Asch was conducting groundbreaking experiments on conformity. In his studies, Asch asked small groups of students at Swarthmore College to complete a series of exceedingly easy visual tasks.2 On each trial, the students were presented with a set of three vertical lines and asked to identify which one was the same length as a fourth line. A toddler could do it. (We know this because we gave this test to our own children when they were toddlers!)
+
+When participants completed the task on their own, they almost always gave the right answers. But Asch wanted to see what people would do if they were in a group, so he had the students sit around a table and announce their answers when the experimenter held up the simple visual stimuli. What participants didn’t realize, however, was that there was actually only one real participant in each session; all the other members of the group were Asch’s stooges, who had been instructed to answer the questions incorrectly at critical points during the experiment. The situation was also arranged so that the unsuspecting real participant always responded last.
+
+Thus, on those occasions when all the other students gave an incorrect answer, the real participant was presented with a choice: Should he report the obviously correct answer or conform to the group and give the wrong answer? As Chico Marx says in the movie Duck Soup, “Who are you gonna believe, me or your own eyes?”
+
+Seventy-six percent of Solomon Asch’s participants who were confronted with obvious discrepancies between the visual evidence and other people’s erroneous responses did in fact ignore their own eyes and echo the incorrect answer at least once. On average, people conformed about a third of the time. Fewer than one in four participants completely resisted the power of the group on every trial.
+
+Why would they do this? Why would people conform and give answers they must have known were false? If you’re thinking, Peer pressure, you’re right. Peer pressure—which psychologists call normative influence—plays a key role in producing conformity. And we know that this was a factor in Asch’s experiments because when he gave participants the chance to respond anonymously, writing their answers down instead of saying them aloud, the number of incorrect answers was reduced to near zero.
+
+This type of conformity pressure is usually driven by a person’s desire to fit in and avoid the social discomfort and potential ostracism that often come from deviance. But this is not the only reason that people conform. We have run similar experiments in which people were given a somewhat more difficult visual task, one that required them to decide whether two shapes in different orientations were the same or different. In this case, the answer wasn’t always immediately clear. After they looked at the shapes for a few seconds, we presented them with a pie chart that supposedly showed the proportions of prior participants who had given each answer.
+
+Our participants gave significantly more correct answers when they saw a pie chart where the majority was correct and significantly more incorrect answers when the majority on the pie chart was incorrect. But here’s the thing: All of our participants were doing this alone on computers in small cubicles, where no one else could possibly observe their responses. Rather than conforming to fit in, they were using the pie charts showing what other people had done as a source of information to guide their own responses. This type of conformity is known as informational influence, and it is motivated by a desire to get things right based on the assumption that other people are generally a good source of information.3 When people are not sure how to act, they look to others for clues about what to think and how to behave.
+
+Informational influence was not a factor in the original Asch studies because the task in question was so simple that people had no need to rely on others for information. But when tasks or situations are more difficult or ambiguous, as they so often are in life, we turn to other people to help us figure out what is going on. Adults often try to discourage teenagers from conforming to peer pressure with admonishments like “Just say no!,” but in many cases, conforming to the behavior of others is a perfectly sensible thing for them to do.
+
+If you assume that other people are roughly as well informed as you are, it is rational to give their preferences equal weight as your own when you make a decision.4 Imagine, for example, that you are trying to choose between two audiobooks before setting off on a long road trip alone. You have a mild preference for one of the books, but you know that a good friend of yours recently chose to listen to the other one (although you do not know what she thought of it after listening). In this situation, assuming that your friend has about as much knowledge and expertise as you, it is rational to essentially flip a mental coin and opt for whichever choice randomly comes up. In other words, you have as much reason to go with your friend’s preference as yours. Maybe your friend knows something that you do not.
+
+Next, imagine that two of your close friends have chosen the other audiobook. Now it is two to one in favor of that choice, and you don’t even need to flip a coin; you should opt for their preference instead of your own. This type of dynamic may contribute to the development of behavioral “cascades”—otherwise known as fads—in which preferences for particular musicians, books, clothing styles, haircuts, college majors, or verbal expressions spread rapidly through large populations. If you look through old magazines, you can see countless trends, like shoulder pads and bell-bottom jeans, that were fashionable for a while and then disappeared, though probably not forever. Assuming that other people have insight into what sounds good, looks good, et cetera, we are often quick to follow the crowd no matter what our initial opinions or impressions were.
+
+This idea might help to explain why fads and fashions often end very quickly as people shift their preferences to something new.5 As a cascade grows, you can assume that more and more people are basing their decisions on what other people are doing and not on their own knowledge and expertise. At some point, it becomes clear that what other people are doing is not about what tastes good or looks good but merely about what is popular.
+
+Now, divergent and different choices made by smaller numbers of people become more informative because presumably they had a good reason for making those more unusual decisions. Suddenly today’s fashion starts to appear faded and tired, and you’re ready to join the crowd for the next big thing!
+
+So we go along with others when we want to fit in and also when we think they are good sources of information. A third and related reason we conform is to express valued identities.6 As discussed in chapter 1, the groups we belong to have norms that articulate “how we do things around here”—the patterns of thought, feeling, and action that define what it means to be a member of a particular group. The more we identify with a group, the more we tend to want to exemplify its norms in our own behavior.
+
+People sometimes describe conformity as “contagious,” implying that ideas and behaviors spread virally across entire populations, even the whole species. But contagion is not the best metaphor because, unlike most viruses, conformity typically stops at the group’s edge. It is bounded, such that we are much more likely to conform to in-group norms than the norms of out-groups. All three motives for conformity contribute to this. We care more about being accepted by fellow in-group members and fitting in with them. We often assume that our own groups are smarter and wiser than others and thus are better sources of information. And it is our own groups’ identities that we want to express.
+
+Indeed, conformity is not just bounded by group borders; it can even become oppositional, as when one group of people opts not to do something simply because another group is doing it, or vice versa.7 This often happens when wealthy or hip groups adopt different styles once a trend they had embraced reaches the masses. It is easy to see how these sorts of identity dynamics can be problematic in highly polarized environments if defiance drives some groups to embrace less accurate beliefs or engage in self-destructive behaviors so they can maintain distinctiveness from rivals. You can sometimes see this dynamic on social media when people post videos of themselves burning their shoes or destroying their coffeemakers to signal that they reject a particular company’s political stance.
+
+But although it has a dark side, conformity serves critical functions in human groups. The capacity of our species to share ideas and information and thereby coordinate behavior is what sets humans apart from other species, including other primates. As cognitive scientists Philip Fernbach and Steve Sloman pointed out, “Chimpanzees can surpass young children on numerical and spatial reasoning tasks, but they cannot come close on tasks that require collaborating with another individual to achieve a goal. Each of us knows only a little bit, but together we can achieve remarkable feats.”8
+
+No single mind can master and retain all the information needed to successfully navigate the world. Knowledge isn’t so much what’s in our heads—it’s what is shared between us. When Isaac Newton wrote, “If I have seen further it is by standing on the shoulders of Giants,” he was expressing his gratitude for the collective nature of knowledge.9
+
+Left alone, humans are not well equipped to separate fact from fiction. If you scoffed at the notion that an alien spaceship was coming to rescue the Seekers, that is probably because you belong to communities skeptical about UFO encounters and end-of-the-world narratives. It is not that you lack a social identity—it is that your beliefs are aligned with those of entirely different groups of people.
+
+Although relying on one’s communities is normally much better than going it alone, there are obviously some important exceptions. When people are overly influenced by charlatans, cult leaders, or propagandists, they can be led terribly astray. We might be tempted to think that cult members are a special breed, but a similar form of group psychology can afflict people in any area of life, including politics and the corporate world. We do not have to go so far as an actual cult to see what happens when groups ramp up pressure on their members to conform, grow insular in the information they seek, and come to believe too strongly their own stories about themselves and their place in the world. If these dynamics are left unchecked, the economic and human costs can be profound.
+
+
+
+
+
+As Solid as Manhattan
+
+
+Early one morning in May of 2019, Dom roused his grumbling kids from bed, handed them each a granola bar, and loaded them into the car. There was little traffic at six thirty on a Sunday and in minutes they arrived at their destination: the top deck of Lehigh University’s Alumni Memorial parking garage. There they joined a surprisingly large assembly of people, many still pajama-clad, almost all of them clutching coffee. Despite the early hour and the austere location, the crowd had an air of sleepy festivity. They were there to watch Martin Tower fall.
+
+Martin Tower was the tallest building ever constructed in Pennsylvania’s Lehigh Valley. Erected in the early 1970s, this imposing structure served as headquarters for the Bethlehem Steel Corporation, at one time the second-largest steel producer in the United States. The company was integral to the nation’s military might, supplying materials for more than a thousand ships during World War II. Steel from Bethlehem built the Golden Gate Bridge, and in 1955 Bethlehem Steel ranked number eight on the list of Fortune 500 companies.10
+
+Martin Tower was intentionally built as a symbol of the company’s strength. Unintentionally, however, it also symbolized aspects of the insular and hubristic corporate culture that, in the long run, contributed to its demise. The tower was constructed in the shape of a plus sign, not for any structural reason but to appease the egos of managers and executives by maximizing the number of corner offices.
+
+If you were in management, Bethlehem Steel was a good company to work for. Dining with executives was famously a “four-star” experience; long lunches were taken in an elegantly appointed room replete with silver tableware. At the time, many industries did important business over rounds of golf, and Bethlehem Steel actually built golf courses for their managers near many of their plants.
+
+At one point, nine of the twelve highest-paid executives in all of America worked for Bethlehem Steel. They had every reason to be satisfied with themselves, and they felt that their position was impregnable. As CEO Eugene Grace noted, the dramatic skyline soaring from the granite of nearby Manhattan Island, much of it built with Bethlehem’s steel, was emblematic of the solidity of the company.
+
+But out there in the real world, all was not well. Foreign competition and technological changes were on the rise. These forces accelerated during the second half of the twentieth century, ultimately posing a mortal challenge to the entire American steel industry. Some companies were able to adapt to new external realities and survive, but Bethlehem Steel was not.
+
+There are, of course, many factors that contribute to the demise of a major corporation, but the Bethlehem Steel story is a cautionary tale about what can happen when an organization becomes insular—seeking information only from inside and getting caught up in its own mythology.
+
+The corporation had only four CEOs for the first sixty-six years of its existence. Eugene Grace served into his eighties; in his later years, he sometimes fell asleep in board meetings, so everyone would wait for him to wake up before carrying on. The board itself was composed mostly of company insiders, as were the managers, who were generally promoted internally rather than recruited from experienced and increasingly dangerous competitors. In an industry that became hypercompetitive, the lack of outsider perspectives may well have been fatal.
+
+In the end, what finally killed Bethlehem Steel were the costs associated with pensions and health benefits put into place when the company was thriving and the bottom line was strong.11 The management spent lavishly on perks and benefits while failing to look ahead. They mistakenly assumed that tomorrow would be like today and deferred all of these costs to the future. But when the future arrived, the problems were too big to fix. In 2001 the company went bankrupt, and by 2003 it had been dissolved.
+
+And so, shortly after seven o’clock on a clear morning in 2019, the crowd atop the parking garage saw flickers of light run down the sides of the plus-sign-shaped building as explosive charges took out its structural supports. As the spectators held their breath, Martin Tower held steady for just a moment before collapsing in on itself in a massive cloud of dust.
+
+
+
+
+
+Corporate Cults
+
+
+We started this chapter with the story of a cult. Bethlehem Steel was by no means a cult, but as an organization it exhibited some of the same pathologies of belief—in their own superiority, wisdom, and resilience—that characterize groups on a cultlike continuum. As Bethlehem Steel declined in the late twentieth century, another major American company was moving even further along that trajectory.
+
+In the mid-1980s, Kenneth Lay took the helm of a new company, Enron, the product of a merger between two energy behemoths. Over the next decade, guided by Lay and a tight-knit group of senior leaders, Enron was transformed from a traditional energy company grounded in oil and gas infrastructure—physical assets—to a financial organization engaged in massive commodities trading.12 The company was wildly successful; in the year 2000, it employed more than twenty thousand people and claimed revenues of over a hundred billion dollars—at least on paper.
+
+As it turned out, however, much of Enron’s apparent value was illusory, built on dodgy accounting practices rather than real profits. The fraud was multifaceted, complex, and creative. For example, executives managed to keep significant debts off Enron’s books by transferring them to limited partnerships that they then treated as separate companies. When this practice was eventually challenged by their auditors, the house of cards began to collapse.
+
+The scale of the fraud at Enron was too vast to attribute to just a “few bad apples,” although former president George Bush did just that. Commentators, including writers at the Economist magazine, suggested that Enron should be understood as “some sort of evangelical cult.” Organizational researchers Dennis Tourish and Naheed Vatcha have subjected this idea to serious scrutiny and concluded that the analogy is apt. In particular, they note that cults have a variety of features exhibited by Enron in its heyday.13
+
+For example, cults usually have charismatic leaders. For the Seekers, it was Dorothy Martin, allegedly blessed with special powers to communicate with higher beings. At Enron, senior leadership was held in almost mythic esteem. The executives considered themselves and were widely perceived to be genius revolutionaries, upending a staid and conservative industry in pursuit of vastly larger profits.
+
+Jeffrey Skilling, who succeeded Kenneth Lay as CEO, embraced a characterization of himself as Darth Vader, a reputation he earned because he was “a master of the energy universe who had the ability to control people’s minds. He was at the peak of his strength, and he intimidated everyone.”14 He referred to his traders as Storm Troopers.
+
+Cult leaders promulgate “totalistic visions” for their groups, transcendent ideologies that explain everything and provide clear guides to action. There is no vision more encompassing, for example, than one that claims the world is about to end and there is but one means of securing salvation. But at Enron, the vision was of the company becoming much more than just a major player in the energy industry.
+
+As a massive banner overhanging the building’s entrance said, Enron’s mission was to transform FROM THE WORLD’S LEADING ENERGY COMPANY—TO THE WORLD’S LEADING COMPANY. Tourish and Vatcha note that although this was a secular rather than religious or apocalyptic vision, “it promised people heaven on earth. If the company were to achieve its goals, unimagined wealth and happiness would be the lot of those fortunate enough to be employees at the time.”
+
+As with cults generally, Enron used its recruitment procedures as a way to indoctrinate employees right from the start. The selection process was notoriously intense and competitive, involving at one point a rapid-fire interrogation with eight different interviewers. Anyone who made it through the gauntlet and got a job would feel that he or she had been specially selected to join an elite crew. These new employees’ sense of specialness was reinforced and tied to their identity with the company; “Enronians were frequently told, and came to believe, that they were the brightest and best employees in the world.” This praise was matched by generous compensation and large bonuses for people who were deemed sufficiently aggressive at pursuing the company’s interests.
+
+Finally, in order to maintain the faith, Enron’s leadership brooked no dissent. Among other measures, they employed a harsh evaluation system known as “rank and yank,” which created a highly competitive environment and enabled managers to quickly get rid of anyone they did not like. As other writers on Enron have noted, “In the process of trying to quickly and efficiently separate from the company those employees who were not carrying their weight, Enron created an environment where most employees were afraid to express their opinions or to question unethical and potentially illegal business practices. Because the rank-and-yank system was both arbitrary and subjective, it was easily used by managers to reward blind loyalty and quash brewing dissent.”15
+
+These cultlike features—highly charismatic leaders, a totalistic vision, careful indoctrination, and elimination of dissent—create groups and organizations with highly enthusiastic followers. Deeply devoted to the mission and insulated from divergent perspectives, they become blind to the group’s internal inconsistencies, exacting costs, and even potential illegality. And this worldview is socially reinforced by fellow group members—just like the Seekers in Dorothy Martin’s apocalyptic cult.
+
+When its illusions and false beliefs came crashing down, Enron went bankrupt and disappeared. Kenneth Lay and Jeffrey Skilling were tried together and convicted of fraud; Lay died before his sentencing, but Skilling was sent to prison. Other executives also went to jail. Thousands of employees lost their jobs and their pensions. The dream was over. And in this regard, what happens to members of a corporate cult differs from what often happens to members of a group like the Seekers when their expectations do not come to pass.
+
+
+
+
+
+When Prophecies Fail
+
+
+Fifty years after Dorothy Martin’s extraterrestrial friends failed to materialize, a preacher named Harold Camping made another doomsday prophecy. Camping, president of a Christian broadcasting network called Family Radio, predicted that the Rapture would occur on May 21, 2011.
+
+Mr. Camping devoted countless hours of his radio program to talking about Judgment Day and spent millions of dollars on billboards to warn people in more than forty countries. This publicity was successful, and his prophecy attracted the attention of many prominent news outlets, including the New York Times, the Associated Press, and Time magazine.
+
+It also attracted the attention of a team of economists who decided to build on Festinger’s original study of the Seekers. Being economists, they wanted to measure the power of belief in real dollars. And they added a crucial control group that had been missing from the investigation of the Seekers. The economists included a set of Seventh-Day Adventists who were somewhat similar to Camping’s followers in that many of them did expect the Rapture to occur during their lifetimes but who did not believe, despite Camping’s prophecy, that it would occur on May 21. This allowed the researchers to directly compare the reactions of two similar religious groups with divergent apocalyptic beliefs.
+
+The researchers approached Family Radio followers and Seventh-Day Adventists outside of Bible-study classes and offered them money. But they had to make a choice—they could have five dollars right away or up to five hundred dollars (the amounts varied) four weeks later.16 Critically, however, participants would not receive the larger sum until after May 21, the date scheduled for doomsday.
+
+Any rational investor reading this will realize that waiting just a few weeks for a larger sum of money gives you a rate of return better than any fund in the stock market. But of course, that only matters if you think the world will exist long enough for you to get the payoff!
+
+The Seventh-Day Adventists acted like people in previous economic studies. On average, they were willing to wait to receive the money if they could get at least seven dollars in the near future rather than five dollars immediately. The most that anyone in the control group required to wait for a few weeks was twenty dollars. They were willing to be patient to earn a few extra bucks. A wise financial choice.
+
+In contrast, and to a person, Harold Camping’s followers wanted the money now. They would consider delaying the five-dollar payoff only for a very high price. Indeed, the vast majority turned down the chance to get several hundred dollars in a few weeks, insisting on being paid immediately.
+
+So what actually happened on May 21, 2011?
+
+While the members of the research team weren’t embedded in the cult like Festinger’s team was, they had the next best vantage point: they were able to watch the group’s message board on Yahoo. In the days before the predicted Rapture—which, according to Camping, would begin in the first time zone to experience sunset on May 21 and travel around the world from there—the board mainly contained messages of faith and hope. The board went silent a few hours before the first time zone’s sunset.
+
+Then, as the moment of the prophecy came and went, activity began to pick up again. The posts revealed the same sorts of reactions that Festinger had observed half a century earlier. Rather than abandoning hope, followers cast about for some sort of explanation that would allow them to maintain the central tenets of the prophecy. People proposed alternative future times for the Rapture, and as each new prediction failed to deliver, a revision was quickly suggested.
+
+This continued until Mr. Camping made his own announcement on May 23. In a new revelation, he said that although the Rapture had not been detectable in the physical realm, a “spiritual judgment” had indeed occurred, initiating the beginning of the end of the world. Despite the apparent contradictory evidence, he and his followers were not wrong, and things were still on track. It is hard to imagine a more perfect replication of the Seekers in the age of the internet.
+
+Why do cult members respond this way when prophecies fail?
+
+Having observed the Seekers, Leon Festinger and his colleagues proposed that when people’s identities and beliefs are seriously called into question, it produces immense feelings of discomfort—a state known as cognitive dissonance. It might seem rational for people to simply abandon the group, return to their family and friends, and try to make a fresh start. But people will go to incredible lengths to preserve their identity and the group’s shared sense of reality. For deeply committed members, it is often easier to ignore contradictions or search for new information that helps reduce feelings of dissonance.
+
+Most of us have other identities and social connections we can turn to when an aspect of our lives hits a major snag. When things are going poorly at the office, you can seek solace at the end of the day by being with your family, by logging into social media to connect with friends, or by turning on the TV to cheer on your favorite team. These alternate identities provide a psychological buffer when something goes wrong. But the Seekers, Family Radio followers, and possibly many Enron employees were in too deep. This created an enormous incentive for them to rationalize or justify events in ways that bolstered their identities and their groups.
+
+The key to maintaining beliefs in the face of countervailing evidence is social support. Isolated believers can rarely withstand overwhelming evidence such as that provided by the failure of a prophecy. Indeed, the importance of social support in maintaining a sense of shared reality may cause people—as we saw with the Seekers—not only to revise their beliefs when they are challenged by reality but also to proselytize in an attempt to grow the number of believers. As Festinger wrote, “If more and more people can be persuaded that the system of belief is correct, then clearly it must, after all, be correct.”17
+
+This pattern of doubling down on beliefs is a common occurrence when group prophecies fail. Examining how religious groups throughout history have reacted when their predictions are unfulfilled, Festinger observed that “in spite of the failure of the prophecy, the fires of fanaticism increased…the failure seemed to excite even greater exhibitions of loyalty.”
+
+As we write this, we see a similar dynamic playing out among followers of the QAnon conspiracy theory, whose predictions about the 2020 presidential election in the United States have been disconfirmed repeatedly. People often think that conspiracy theorists are fundamentally different from others. But we have found that many conspiracy theorists are attracted to these sorts of belief systems because of identity goals. They are attached to conspiratorial beliefs that align with their identities and gain a sense of belonging from sharing those beliefs with fellow adherents.18
+
+
+
+
+
+Avoiding Groupthink
+
+
+We certainly aren’t claiming that groups are inevitably or invariably cultlike. But the dynamics of identity that drive people to seek shared realities even in the face of contradictory information do affect groups of all sorts. A related scientific literature has famously described these dynamics as groupthink.
+
+According to Irving Janis, originator of the idea, a clear case of groupthink occurred a year into John F. Kennedy’s presidency when his administration launched a land invasion of Cuba on a remote area of the island known as the Bay of Pigs.19 The goal was to overthrow Cuban leader Fidel Castro, a Communist and perennial thorn in the side of American economic and foreign policy interests.
+
+Planning for the secret military operation had begun during the administration of JFK’s predecessor, Dwight D. Eisenhower. To avoid involving U.S. troops, the CIA had trained fourteen hundred Cuban exiles, preparing them to storm the Bahía de Cochinos and march to Havana. The expatriates were eager to return home and topple a leader they regarded as dictatorial and illegitimate. American thinking was that this would inspire the Cuban people to rise up against Castro, striking a powerful blow against Communist ideology.
+
+Instead, the Cuban exiles were met and quickly overwhelmed by twenty thousand Cuban soldiers. Within four days, more than sixty had been killed and over eleven hundred captured. U.S. ships attempted to evacuate some of the remaining fighters but were ultimately forced to retreat under Cuban fire. The Bay of Pigs invasion was a disaster and a humiliation for Kennedy’s still-young presidency.
+
+Kennedy later asked, “How could we have been so stupid?”
+
+Regrettably, even the smartest people can make stupid decisions. It might be easy to dismiss the behavior of some cults. But the Kennedy administration—like Enron—was loaded with brilliant people. Unfortunately, individual intelligence is hardly a cure for social stupidity. Research has found that a person’s tendency to approach problems in ways that are likely to confirm what he or she already believes is unrelated to cognitive ability.20 And group dynamics may exacerbate the problem.
+
+Irving Janis argued that these very smart people had fallen victim to groupthink. Groupthink occurs when a group of people arrive at irrational decisions out of a desire for social conformity. This can be especially powerful when time is an issue and people have to express opinions and objections publicly and to group members who are higher in status. Pressure to maintain harmony and cohesion in these circumstances can lead people to agree at all costs, even when many may privately harbor serious doubts about a decision. Groupthink gives the illusion of a shared reality when none actually exists.
+
+Analyzing the Bay of Pigs decision-making, Janis found that Kennedy’s advisers had reason to think the invasion would fail but refrained from expressing their reservations out of concern for seeming “soft” or “un-daring.” No one spoke out against it. Yet, as one of Kennedy’s advisers later said, “Had one senior advisor opposed the adventure, I believe that Kennedy would have canceled it.”
+
+The groupthink idea has inspired decision-makers to take steps to avoid these traps. Leaders are advised to let their subordinates speak before they express their own views. They may appoint people to serve as designated devil’s advocates, charged with challenging the group’s consensus regardless of their own opinions. One approach that we, as researchers, are very familiar with involves a type of independent-review process.
+
+Imagine what would have happened if Kennedy had sent Eisenhower’s plan to his senior advisers and asked them each to write an anonymous critique. He likely would have received a scattershot of perspectives rather than uniform agreement. Kennedy could then have reviewed their opinions and reached his own informed, but independent, decision about how to proceed. No one would have needed to speak out publicly, and the president could have digested his advisers’ thoughts and possible objections before expressing his own preferences.
+
+We cannot know how the Bay of Pigs invasion might have turned out with a different, more rigorous advice-seeking process. But we do know that peer review helps root out biased decision-making among scholars and scientists. Every time a scientific paper is submitted to a journal for publication, it goes through this type of scrutiny. In most cases, the paper is sent to an editor who then sends it to a handful of anonymous reviewers who are experts in the field. They are tasked with finding all of the errors, holes in logic, and unsatisfactory conclusions that they can. Many times the process is double-blinded, meaning that the reviewers do not know who the authors are and the authors will never know who the reviewers are.
+
+For most researchers, this process usually results in a rejection. But if their work is deemed sufficiently rigorous and robust, they are invited to make extensive revisions and then resubmit the paper for another round of review. And research suggests that even papers that are initially rejected tend to get better when they are submitted to another journal. This admittedly painful process is how researchers produce scientific advances and expert knowledge. And it does not end there. Once a paper is published, other scientists often weigh in with their own critiques or attempt to replicate findings in their own labs. Each finding and theory is understood to be provisional, and knowledge increases slowly and painstakingly over time.
+
+Peer review is not perfect, but it provides a remarkable antidote to groupthink. Receiving reviews from scientists who disagree about the strengths and weaknesses of your paper can be annoying (trust us, we get irritated too!). Harnessing a diversity of opinions can also slow down the publication process. But when you get a vaccination, fly in a plane, or turn on your computer, you can thank the peer-review process for improving the scientific foundations behind modern medicine and technology.
+
+
+
+
+
+Evidence-Based Identities
+
+
+In the traditional formulation of groupthink, a group’s goal of accuracy is pitted against goals of consensus and cohesion. But when archives related to the Bay of Pigs disaster were opened up, some of the players involved published memoirs, and more materials became available, psychologist Roderick Kramer reevaluated the groupthink explanation.21 Reviewing a much broader array of evidence than Irving Janis had, he concluded that the problem with the Kennedy administration’s decision-making was not necessarily that people were suppressing views that would have increased the chances of military success but that they were not really thinking about it in those terms to begin with.
+
+Kramer argued that rather than focusing on how to maximize the chances of operational success, Kennedy and his advisers focused on making choices that would play well politically for the administration or at least minimize the domestic political fallout. He suggested that rather than calling their decision-making a product of groupthink, it could be better thought of as the result of “politicothink.”
+
+This highlights an important point: groups can have different types of goals and may develop patterns or norms for the sorts of goals that drive their decision-making. And as norms, these patterns tend to be reinforced and enforced. For example, if the two of us were to start sharing dubious news stories on social media, not only would we find our in-boxes full of corrections from our friends, but it would raise more than a few eyebrows in our scientific community. Some of our professional opportunities would probably dry up, we would get fewer invitations to give talks, and we might slowly be removed from important committees.
+
+This is not to say that either of us is perfect! When we do share misinformation or make a less than robust claim, our colleagues are quick to point it out. If we make errors in this book, we have little doubt that our colleagues will let us know—perhaps with a polite note or possibly with a damning critique on Twitter or in a science blog. If we do not acknowledge our errors, we will surely suffer even more in the eyes of our community. These informal sanctions operate because our identity as scientists comes with strong expectations that we will use empirical analysis to arrive at verifiable conclusions. The norm of pursuing accuracy is one that this identity holds very dear, and it is a critical part of the way that each generation of scientists is socialized.
+
+Of course, the socialization process is somewhat different for each scientist and is influenced by the values and actions of mentors and immediate peers. But for many of us, when we see colleagues defending a debunked theory or dismissing a string of failed replications of their work, it casts doubt on their identity as good scientists. The expectation is that they should update their thinking or conduct more research to reconcile the differences between their conclusions and those of their critics. Scientists who do this tend to rise in others’ esteem, while those who cling to theories in spite of contradictory evidence tend to drop in stature.
+
+Scientists are far from alone in valuing evidence-based reasoning; investigative journalists, lawyers, judges, investors, engineers, and many others are constantly evaluated in terms of their capacity to rigorously interrogate reality. If they were not, people would not rely on the news, hire expensive lawyers, put money in mutual funds, or drive across bridges without a thought to their structural integrity. When these folks fail to draw sound conclusions, they correct their mistakes as quickly as possible or risk losing clients and finding themselves unemployed. All of these professions thrive when they use editorial, legal, or technical professional standards that enforce rigor. It is not because these fields are populated by perfect people; rather, their strength lies in the values and the institutions that sustain these norms of accuracy.
+
+Above, we suggested that independent peer-review-type processes can provide an antidote to conformist decision-making. But peer reviewers, of course, are also flawed. There is a worry that the biases of reviewers, especially if they are widely held or systemic, could negatively affect the whole enterprise.
+
+We recently analyzed the value of the peer-review process for rooting out political bias within our own community of psychological researchers. According to several surveys, the vast majority of social scientists self-categorize as liberal in their political beliefs.22 In fact, one survey of social psychologists found that over 89 percent of the field self-identified as liberal; less than 3 percent identified as conservative.23
+
+This imbalance led conservative political commentator Arthur Brooks to propose that unconscious partisan bias might be undercutting the quality of research. He quoted one scientist as saying, “Expecting trustworthy results on politically charged topics from an ideologically incestuous community is downright delusional.” Brooks noted that even scrupulous researchers could be affected by bias, and he suggested, in particular, that commonly held ideas that align with liberal values may receive a lower standard of scrutiny.
+
+Of course, this is a distinct possibility. If partisan identities are guiding research, it seems quite plausible that some form of bias or groupthink might be taking place in the scientific review process. In fact, we ran an informal poll, to which 699 of our peers on Twitter responded, asking colleagues whether they expected liberal or conservative findings to be less likely to replicate. Forty-three percent thought liberal findings would be less likely to replicate, whereas only 13 percent thought that conservative findings would be less likely to replicate (the other 44 percent expected to find no difference). In other words, many people shared the concern that liberal bias might be leaking into the research literature, making it a shaky foundation to build on.
+
+Yet we suspected that peer review and the critical norms associated with a scientific identity might help root out this problem.24 To test this, Diego Reinero and other members of Jay’s lab analyzed 218 psychology experiments that included over a million participants.25 Each of these studies had later been replicated by another lab. Comparing the original results to their replications, we wanted to see if the results held up better or worse depending on whether their conclusions were aligned with the partisan political preferences of the field. If liberal scientists were engaging in groupthink or politicothink, we would expect that they might submit flimsier studies aligned with their political identities and also maybe go a little easier on similar studies as reviewers. This would eventually create a body of published research rife with political bias.
+
+After we gathered this stack of academic papers, we took steps to check our own biases. We recruited graduate students from across the political spectrum to read a short summary of each paper. We asked the students to determine whether the findings in each paper supported a liberal worldview, a conservative worldview, or something in between.
+
+We wrote down our analysis plans in a time-stamped online document before we analyzed the data. This prevented us from doing anything to misrepresent our results—it is a strategy to check our own biases (even if they are unconscious). We also teamed up with a researcher who had very different predictions from our team to see if he would come up with the same results using his own preferred approach. Jay warned his lab, “Someone is going to hate us no matter how these results turn out.”
+
+Then we crunched the numbers.
+
+The results surprised us in a number of ways. First of all, very few studies were seen as politically slanted. Despite the fact that the field is highly populated by liberals, very few of the studies aligned clearly with those beliefs. Even our most conservative raters failed to see much of a liberal slant in the literature.
+
+Next, we examined whether more liberal findings were less robust than conservative findings. This was our big research question. If liberal groupthink was taking place, the more liberal findings should also be more flimsy and less likely to replicate. However, if anonymous peer review was working as planned, there should be little or no difference in the replicability of liberal or conservative findings. Weaknesses in logic and data should be rooted out by reviewers and editors judging the work through the lens of their scientific rather than political identities.
+
+The good news is that we found no difference in the replication rates of liberal or conservative findings. Liberal and conservatively oriented studies were also similar on other measures of research quality, like the strength of their findings (known as the “effect size”) and the quality of their methods.
+
+There was no trace of liberal groupthink. It seems that psychological scientists were, for the most part, able to put their politics aside when they conducted and reviewed research. Instead of exhibiting rank partisanship, they were largely able to channel the values and norms of their scientific identity. This should give outsiders—and researchers—greater reason to trust the data; the institutions scientists have built seem to be fairly immune to the patterns of thought that can afflict political administrations and other types of groups.
+
+Other studies have found similar patterns. One analyzed whether the abstracts of academic conference presentations were biased in favor of liberals. Admittedly, these conference presentations did not undergo the normal scrutiny of peer review at a journal. Again, experts predicted that there would be clear evidence of liberal bias. The authors did find modest evidence of liberal bias in this case. For example, abstracts were slightly more likely to mention conservatives as the target of study than liberals. But the evidence of bias was much weaker than predicted; the experts expected to find far more than they actually observed.26
+
+This is good news for society because it underscores the integrity of the scientific process. But it also offers a lesson for people outside of science: there are norms and institutional practices that can be used to promote accuracy even in the face of strong political beliefs. This may seem hard to believe—even the scientists themselves expected to see more bias. But if we were hired by a company to root out groupthink, we would likely come up with a solution that looks a lot like the peer-review process. If Bethlehem Steel and Enron had had mechanisms for input and oversight from independent, anonymous experts, would they have sustained such cultish and ultimately self-destructive cultures? Peer review is far from perfect, but it appears quite useful for addressing this particular problem of group behavior.
+
+Scientists continue to revise and improve our peer-review procedures. Many journals now make research plans, materials, data, and analysis code fully available during peer review. Some journals have created badges—just like Boy Scouts and Girl Scouts—to signal when people are using best practices. We have also created new systems for sharing work and getting feedback before and after peer review, with the understanding that even published papers deserve ongoing scrutiny. Just as important, we continue to analyze and evaluate these innovations as new data roll in. In fact, there is an entire field dedicated to studying the behavior of scientists, called meta-science.
+
+Commitment to accuracy as a central goal is hardly specific to science. By valuing smart criticism, groups and organizations can help foster dissent and improve decision-making. Unfortunately, many leaders act like John F. Kennedy during the planning of the Bay of Pigs. They are the first to share their opinions at meetings, signaling what they value and discouraging dissent. They crush, perhaps unintentionally, the sorts of questions and comments that can identify problems or lead to creative new ideas. This might seem strategically useful for making quick decisions, but it can exact enormous costs in the long run.
+
+
+
+
+
+Accuracy in a Divided World
+
+
+By this point we hope we have convinced you that humans’ understanding of the world is shaped by other humans—that our realities are fundamentally social. Yet, although this is true, people still tend to believe—most of the time, anyway—that they see the world objectively. This phenomenon is known to psychologists as naive realism, because people naively assume that they see reality for what it is. As a result of naive realism, when other people disagree with you, especially if they are members of other groups, you often dismiss them as uninformed, irrational, or biased.
+
+Whereas people tend to think that their own groups see reality more or less for what it is—that they have a good handle on things—they often perceive out-groups as deluded, conformist, and generally incompetent. To illustrate this point, a clever study conducted by researchers at the University of Queensland asked one set of people to name an animal that they felt captured the essence of an in-group they were proud to belong to; they asked another set to name an animal they felt best represented an out-group they would not want to be associated with.27 Participants in the first group listed noble animals like lions, wolves, tigers, and dolphins. Participants in the second one, however, nominated species known for blind conformity or nefarious intent: sheep and lemmings, snakes and hyenas.
+
+These sorts of assumptions can make it difficult to resolve disagreements of fact between groups. If you enter a discussion assuming that the people on the other side are a bunch of idiots or ideologues, you are not going to win many new friends. Nor is your mind going to be opened to the possibility that you might be wrong.
+
+This particular aspect of identity and group psychology poses a significant problem to society, amplified in our time by political divisions and social media. When groups cannot agree on basic facts, it erodes the foundations for compromise and provides a basis for intractable intergroup conflict. In the age of the internet, it feels easier than ever for people to form their own cultlike cocoons.
+
+Consider debates about vaccination. If one group believes vaccinations are the key to preventing diseases like polio, measles, and COVID-19, and another group thinks that vaccines contain toxins that cause autism and are part of a conspiracy to control people, there is little ground for compromise. Scientists are unlikely to believe the conspiracy theories, and anti-vaxxers are unconvinced by yet another study debunking the link between autism and vaccines. This can lead both sides to retreat from the conversation and spend more time with like-minded others.28
+
+People choose doctors, school districts, friends, and jobs that align with their identities. It is easier to avoid conflict and find people who provide a feeling of affirmation than face the discomfort of engaging with people who do not agree with you.
+
+Societies around the world are now grappling with how to stop, or at least slow, the viral spread of misinformation and disinformation online. Social media companies like Facebook and Twitter are experimenting with attaching fact-checks and disclaimers (“This is a disputed claim”) to contested and factually dubious messages. They are also increasingly taking steps to remove users and accounts that spread conspiracy theories.
+
+These are certainly steps in the right direction, but research suggests that measures like fact-checking in politically polarized times face an uphill battle when it comes to actually changing minds. With our colleagues Diego Reinero, Elizabeth Harris, and Annie Duke, we recently ran experiments that pitted the power of fact-checks against social identity. Though they are usually less strong than true cult identities, we focused on people’s connections to political parties. In the United States, more than 60 percent of people identify with one of the two major parties.
+
+We had partisans on both sides read a series of statements that appeared to have come from Twitter. Each statement seemed to come from an in-group or an out-group member, and we asked participants how much they believed it was true. The statements looked like messages from political leaders, and we tried to capture some of the give-and-take that occurs during online political discussions.
+
+For instance, participants might see a tweet that appeared to come from Donald Trump’s Twitter account saying: “We were told that if global warming was real, the ice caps would be melting. However, they are now up at record levels.” Then they saw this statement “fact-checked” by an in-group or out-group member. In this case, people in our study might have seen a response purportedly from Hillary Clinton noting: “According to the National Snow and Ice Data Center, the polar ice is at a record low in the Arctic (around the North Pole) right now and near record low in the Antarctic (around the South Pole). In no way are the caps at record highs.” In other trials, participants saw prominent Democrats fact-checked by prominent Republicans, which allowed us to look at bias among supporters of both parties. Our question was, would fact-checks work, or would partisan identities dominate beliefs?
+
+It turns out that fact-checks did work, but barely.
+
+When people saw a post fact-checked, they tended to update their beliefs by very small amounts. For instance, if they believed Donald Trump’s comment about global warming, they would report believing it about 1 percent less after reading Hillary Clinton’s fact-check.
+
+The dominant driver of beliefs, in our research, was whether the original tweet or the fact-check about it appeared to come from an in-group or an out-group member. People believed in-group members whether they were the ones who had shared the initial information or the fact-checking response. In this study, shared partisan reality was ten times more powerful than the fact-checks! And this was true for both Republicans and Democrats.
+
+Our findings mesh with previous studies. It turns out that fact-checks work well for many topics, but not in the domain of politics. Once people have an identity at stake, the power of factual information is diluted—especially if it comes from the other side.
+
+This is not terribly promising if we are hoping to reduce the influence and spread of erroneous information. Thankfully, other recent work suggests that there are techniques that can orient people more toward fact than fiction. Once again, a key factor turns out to be the goals with which people approach information. When people encounter something online, are they motivated to consider its accuracy or are they animated by another sort of goal—owning the libs, amusing their friends, or going viral?
+
+To examine how different goals affect the processing of information online, researchers presented participants with a series of both true and false headlines about COVID-19 embedded in what looked like Facebook posts.29 Half the participants were asked whether they would consider sharing each headline online; the other half were asked whether, to the best of their knowledge, the claim in each headline was accurate.
+
+People who had been asked to consider accuracy discriminated between the true and false headlines significantly more effectively than those asked whether they would share the information. Focused on accuracy, people were better able to differentiate truth from lies. Research led by Steve Rathje and Sander van Linden similarly found that financial incentives can help reduce the spread of misinformation. Simply offering participants a dollar for forming accurate beliefs was sufficient to reduce their partisan biases.
+
+When people want to be accurate, they are generally quite good at it. This places some power in our own hands. The challenge is how to create norms for accuracy in increasingly polarized environments where people often prefer to associate solely with like-minded others and take every opportunity to disagree with and disparage their perceived rivals.
+
+And this raises the further challenge of how people who disagree due to their political commitments can work together. We offer a deeper understanding of this issue—as well as some potential solutions—in the next chapter.

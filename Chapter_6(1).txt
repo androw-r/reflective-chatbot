@@ -1,0 +1,264 @@
+Overcoming Bias
+
+
+
+
+“This is 911, what’s your emergency?” the operator asked.
+
+“I have two gentlemen in my café who are refusing to make a purchase or leave,” Holly Hylton replied.
+
+Hylton, the on-duty manager at Starbucks in Center City, Philadelphia, made this call on the afternoon of April 12, 2018, setting in motion a cascade of events that would result in international headlines, trigger outrage across the country, and unleash demands for a boycott. Ultimately, it caused Starbucks executives to temporarily shut down nearly eight thousand stores across the United States.1
+
+The gentlemen in question—two young Black men—had entered the café minutes earlier and were quietly waiting for a friend. They had not yet purchased anything and when they asked to use the restroom, they were refused access.
+
+While this might not seem terribly unusual for many business establishments, it was outside the norm for Starbucks, which is known for allowing people to use their bathrooms. When former New York City mayor Michael Bloomberg was asked by a reporter why the city does not have more public bathrooms, he quipped, “There’s enough Starbucks that’ll let you use the bathroom.”2
+
+Alas, this courtesy didn’t seem to apply to everyone.
+
+Police officers arrived at the Starbucks and arrested the two men for trespassing despite the protests of patrons who argued that the men had not done anything wrong. The episode was caught on video and went viral.3 People around the world saw six police officers handcuffing and removing the two men from the café while another patron (a White man) pleaded with the police to explain what they had done.
+
+Eventually the two men were released without charges, and the Philadelphia police, as well as the city, apologized in the face of massive public outrage.
+
+The Starbucks Corporation quickly entered damage-control mode. Hylton left her job, and a few weeks later, Starbucks announced that they would close thousands of their cafés in the United States and other nations to provide their employees with training “to address implicit bias, promote conscious inclusion, and ensure everyone inside a Starbucks store feels safe and welcome.”4
+
+The company’s actions reflected, at that point, the largest-scale and highest-profile implementation of training based on the increasingly hot concept of implicit bias. Suddenly, everyone was talking about it. But what is implicit bias, exactly? And what strategies are effective in reducing bias?
+
+
+
+
+
+The Roots of Bias
+
+
+Before the U.S. Congress confirms a new president’s nominees for the cabinet, senators from both parties subject them to a grilling. During the hearing for Merrick Garland, President Joe Biden’s choice for attorney general, Senator John Kennedy threw him a curveball. “I want to ask you about the concept of implicit bias,” the Republican from Louisiana said. “Does that mean I’m a racist, no matter what I do or what I think? I’m a racist, but I don’t know I’m a racist?”
+
+Though his queries might have been intended to discomfit Garland or trip him up, they reflect the sorts of questions that many people have about what it means to be prejudiced and what the distinctions are between different forms of bias.
+
+Over the past several decades, scientists have developed a variety of tests to measure implicit or unconscious biases, capturing the preferences that people have toward some groups over others that they are not necessarily fully aware of.5 These tests are designed to measure the feelings and associations that rapidly and automatically come to mind when people encounter members of different groups. In fact, they can be used to assess quick reactions to all sorts of things, not just social groups—types of food, addictive substances, animals, and so on.
+
+Icebergs are often used as a metaphor for the human mind. While your conscious experiences appear to dominate your mental life, they are actually just the tip of a much larger structure, most of which lies hidden beneath the surface. Many functions of the mind operate automatically or outside your awareness, and by the time you become consciously aware of things, a significant amount of information processing has already occurred.
+
+For some things, this is obvious. Your brain regulates your breathing and digestion without you consciously giving it a second thought. What is sometimes more surprising to people is that a great deal of unconscious, uncontrolled, and often very quick processing also takes place as you make sense of other people.
+
+Explicit biases are ones that people talk about. If someone says or indicates on a survey that she doesn’t like millennials or Canadians, she is expressing a clear and presumably unashamed prejudice. These sorts of expressions tend to reflect the social norms in an environment—people are usually willing to say only what they think is acceptable. Measuring implicit bias requires more subtle tests.
+
+On many of these tests, participants are presented with images at rapid speed of people belonging to different groups. They might be faces of men and women, Christians and Muslims, or Black or White people. You will be asked to respond to the images, and based on the pattern of your responses—how quickly you react or the types of errors you make—researchers are able to estimate your automatic preferences for different groups. For example, during a task that we have used a lot (known as “evaluative priming”), you will see a male or a female face for a few milliseconds followed by an image of something that most people find positive or negative—a cute puppy or a hairy spider, perhaps. Your task is simply to press one key on the computer if what you are looking at is something you like and another key if it is something you dislike. It turns out that the face you see before you respond to the puppy or spider can affect how quickly you classify that image as positive or negative. If you have more negative implicit reactions to male faces than female ones, for example, you will be a bit faster to say that the spider is bad after you see a man’s face than after you see a woman’s face. You will also be slower to say that the puppy is good after seeing a man’s face.
+
+You can try another version of an implicit bias measure, the Implicit Association Test (or IAT) yourself at Project Implicit, based at Harvard University. Having administered millions of these kinds of tests, scientists have found that the vast majority of people show some degree of implicit bias, favoring their own ethnic, national, political, or religious groups over corresponding out-groups. Of course, not everyone shows the same degree or type of bias. Many people are troubled to learn that they harbor these racial, gender, or other biases because they believe in the value of treating people equally.
+
+Even very young children have taken variants of these tests and exhibit preferences for members of their own race, leading Newsweek magazine to run a provocative cover asking, “Is Your Baby Racist?”6 Mahzarin Banaji and Anthony Greenwald, two of the scientists who developed the IAT, refer to the subtle biases possessed by otherwise good people as a “blind spot.”
+
+So what does this mean? Are humans somehow hardwired to be racist? And if not, where do these biases come from and why do they persist even among people who think of themselves as unprejudiced and egalitarian?
+
+If humans were truly hardwired for racism, we would expect that our species had evolved in environments where it was adaptive to differentiate among and discriminate against people from other races. Yet from everything we know about human evolution, this is unlikely.
+
+Evolutionary psychologist Leda Cosmides and her colleagues argue they have ruled out “the hypothesis that the brain mechanisms that cause race encoding evolved for that purpose.”7 What this means is that while our brains can and do judge people on the basis of their race, we have not evolved any special neural function just for this purpose. Cosmides and her team suggest that natural selection may well have favored brain machinery that automatically registers gender and age because our ancestors inhabited a social world in which knowing other people’s genders and life stages enabled them to make a variety of useful judgments about them: Who was a potential mate? Who, young or very old, was likely to need extra help?
+
+But, Cosmides and her colleagues argue, race is different.
+
+First, they note that “geneticists have shown that humanity is not divided into distinct racial types.” Second, they provide a commonsense reason why racism would not be hardwired into our species: our ancestors were hunter-gatherers who lived in small groups and traveled primarily by foot. This meant that typical humans would almost never have encountered people from groups genetically distant enough to qualify as belonging to a different race. If they never (or very rarely) encountered people with different skin tones or facial features, there could have been no evolutionary advantage for racism.
+
+Then why is racism such a common feature of contemporary life? One reason, they argue, is that paying close attention to race and dividing the world up on that basis is a side effect of neural machinery that was carved by natural selection to identify in-groups and track coalitions. Our ancestors lived in bands that often came into contact with other local bands. Their need to work with in-group members and defend against out-groups might have selected for people who were skilled at making “us-versus-them” distinctions and who defended the group against hostile outsiders (who tended to look a lot like them).
+
+People also formed coalitions within bands. To grab political power or gain access to scarce food and other resources, it helped to work together. The ability to detect and identify with shifting alliances is thought to exist in every culture on earth.8 It is a deeply human trait. We see it happening, for instance, in the minimal-group experiments discussed in chapter 1, when merely being assigned to an arbitrary category caused people to immediately form a social identity and discriminate in favor of it. Similar patterns of coalitional behavior have also been observed in other primates, our close genetic cousins, although humans might be alone among primates in our willingness to help in-group members even if they are anonymous. We are a truly groupish species.
+
+But our evolutionary heritage also comes with a tendency for us to form and protect hierarchies that put some people and groups at the top and others at the bottom. This helps to explain why, having divided the world into categories like race, religion, and nationality, humans have the abhorrent tendency to create and defend systems of oppression.
+
+The drive to defend group hierarchies is what political psychologist Jim Sidanius described as an orientation toward social dominance.9 This tendency provides the psychological foundation for much of the racism that exists around the globe. From this perspective, racism is not grounded in genetic racial differences, despite what White supremacists would have you believe. Instead, it is built on mental tendencies to carve the world into groups and defend inequitable systems and power disparities.
+
+
+
+
+
+Long Histories
+
+
+Racist and other oppressive social systems have long histories. Hardly unique in this sense, racism has plagued the United States since 1619, when a ship carrying people enslaved from the African continent arrived in the colony of Virginia. America did not declare independence from Britain until 1776, but at that point slavery was already embedded within institutions and accounted for much of the nation’s early wealth.
+
+The residue of this dark history is still evident today.
+
+It was evident in the summer of 2014 in Ferguson, Missouri, when a young Black man, Michael Brown, was shot and killed by a police officer. It was evident in New York City that same year when Eric Garner, a middle-aged Black man, was killed by an NYPD officer using a prohibited choke hold. And it was evident in the spring of 2020 when Breonna Taylor was shot by police while sleeping in her Louisville apartment and when, shortly thereafter, a Minneapolis officer killed George Floyd by kneeling on his neck for nine minutes and twenty-nine seconds.
+
+Police killings of Black and other people of color are shockingly common in the United States. Exactly the same words with which sociologist Gunnar Myrdal described racial disparities in justice in the early 1940s can be used, unedited, today. He wrote, “The police often assume the duty not only of arresting but also of sentencing and punishing the culprit.”10 But what makes these killings resemble the past is also the impunity of many of the police officers involved. In the cases of Michael Brown, Eric Garner, and Breonna Taylor, public prosecutors brought potential charges to a grand jury, and the jury declined to indict the officers. These were not decisions to find the officers not guilty; they were decisions not to even hold a trial.
+
+The way people evaluate and react to each other in the present is the result of multiple influences operating on different time scales. It is like a complex tone—or sound wave—made up of a set of constituent frequencies. Some of these frequencies oscillate rapidly, on the scale of days, minutes, or seconds. Some are slower, operating over years or decades as a person is socialized, develops, and has life experiences. Others may be slower still, operating over generations, carrying undertones from the deep past into the present.
+
+In recent years, social scientists have started to study the effects of slavery on current-day outcomes. For example, economists have found that locations in the United States where more people were enslaved in the 1800s tend to have higher levels of economic inequality and remain economically underdeveloped today.11 We and other researchers have similarly found that a history of slavery in certain parts of the United States relates to attitudes and biases in the present.12 Based on data from about 1.8 million White participants who took an online Black/White IAT on the Project Implicit website between 2001 and 2013, we looked at relationships between current-day levels of bias in particular locations and what had happened in those places in the past. We observed that levels of implicit bias today were greater in former slaveholding states.
+
+When we took a deeper look, we found higher implicit bias among people who live in Southern counties today that in the year 1860 had relatively more enslaved Black people living there. In other words, the ratio of enslaved Black people to the White population in a county in 1860 predicted White residents having more implicit racial bias in that county today. It predicted higher explicit bias as well.
+
+It is, in part, the stability of the social environment that holds racist identities and attitudes in place.13 Whether people are aware of it or not, symbolic and structural features of environments, from the symbolism of the Confederate flag to separation of racial groups in segregated neighborhoods and schools, perpetuate old patterns. Biases are persistent in large part because people live in a world that has yet to fully abolish old legacies of structural and institutional discrimination.
+
+Many people are becoming more aware of the impact of these systemic features of racism. As we were writing this book, protesters around the world were dismantling symbols of oppressive history. In the United States, nearly one hundred Confederate monuments were removed in 2020; in Richmond, Virginia, people threw a statue of Christopher Columbus into a lake.14 In Antwerp, Belgium, people set fire to a statue of King Leopold II.
+
+These events reflect an effort to restructure environments to produce different attitudes and norms. By recognizing the impact of past oppression and dismantling its symbols, people hope to create more inclusive identities for future generations. Charting a new course for the future often requires grappling with the past. And how to do this effectively is not always straightforward.
+
+Research linking current-day attitudes to historical circumstances makes it clear that there are unlikely to be any quick fixes when it comes to problems of racism and other forms of bias. Yet understanding the psychological roots of bias can shed light on potential pathways for reducing it. The psychology of social identity can be used to bridge divides rather than create them. Given our species’ capacity to form identities around new groups, finding different ways of dividing up the social world can have positive effects. Indeed, creating new identities can reshape the automatic mind.
+
+
+
+
+
+Wired for Social Identity
+
+
+The two of us became interested in how identities affect implicit bias when we were sharing an office as graduate students. Around that time, there was a sense among many researchers that implicit racial biases were probably inevitable. It was assumed that after people were exposed for years to all of their society’s stereotypes and prejudices, negative associations with marginalized groups would become deeply entrenched in their minds. Scholars found it difficult to reduce implicit bias in the lab, and measures of implicit bias were often quite disconnected from the explicit attitudes and values that people expressed in surveys or in public.
+
+But we were curious—just how sticky were implicit racial biases? Could we override these biases by getting people to adopt a new, more inclusive identity?
+
+To find out, we drove about a hundred and sixty miles from our office in Toronto to Kingston, Ontario, where Queen’s University had just built a new center for neuroscience and we were able to book the whole facility for large blocks of time. Wil Cunningham, our mentor, had to rent a car because his 1995 green Ford Escort did not have enough room for all of us (and none of us students could afford a car at that point). We lived out of a cheap hotel and spent our summer days in the basement of the brain center running participants through the functional neuroimaging scanner.
+
+In previous brain-imaging studies, researchers had found that White participants consistently showed a pattern of racial bias in their neural responses when they saw people from different races. People who exhibited stronger implicit associations between Black and bad (as well as White and good) on the IAT showed greater blood flow in a small, almond-shaped region of the brain known as the amygdala.15 This relationship between implicit bias and brain activity was especially strong when subjects were presented with people’s faces for only a few milliseconds—less than the blink of an eye! This implied that the pattern of racial bias was happening very quickly in the brain and without their conscious awareness.16
+
+At the time, the amygdala was widely believed to be centrally involved in the processing of negative emotions. However, our lab, as well as a few others, had begun to accumulate evidence that this brain area was perhaps better understood as reacting to highly relevant or important stimuli, from erotic images to famous celebrities. It seemed to be signaling something like Pay attention to this! Often, these signals were for negative or unfamiliar things, like out-groups. But positive things can be highly relevant and important too, especially when they are connected to our sense of identity.
+
+The question we asked that summer was what would happen to brain activity in this region if participants felt a sense of shared identity with people of different races. This happens all the time at school, at work, and in sports, when people find themselves sharing groups and goals with people from any number of different backgrounds and ethnicities. We suspected that sharing a common identity might be enough to change the typically observed patterns of racial bias. To see if this was the case, we assigned our participants, all of whom were White, to a mixed-race team. Just as in the minimal-group studies, we created these teams by flipping a coin.17
+
+People came to the study one at a time; we took each person’s photo and uploaded it to a computer. In the first phase, the participants were told they would join one of two teams, the Leopards or the Tigers. For the next few minutes, they memorized photos of twelve people who were members of their in-group and photos of twelve other people who were members of the out-group. They also saw their own photo in the mix to help them identify with their team. Critically, the photos were racially diverse; half the members of each team were White and half were Black.
+
+The people in our study were now part of a mixed-race team, although they would never have a chance to meet or learn more about one another. They merely looked at the other team members’ faces. Would this be enough to change how their brains encoded in-group and out-group members, or would they still exhibit the standard patterns of racial bias that are so pervasive in society?
+
+Once they were in the brain scanner (picture an appliance the size of a small kitchen with a tunnel just large enough to fit an adult), the subjects could see and react to images projected onto a mirror a few inches in front of their eyes. As they lay on their backs, they saw a random series of faces, each one an in-group or an out-group member, for two seconds at a time. When they saw a face, participants made a simple response using a button box they were holding. Sometimes they were asked to indicate whether a face belonged to an in-group or an out-group member, other times whether it was a Black or White person.
+
+This type of research is slow and quite expensive, so it took us several trips to Kingston and many days in the imaging center to collect all the data we needed. Once the study was finished, Professor Cunningham warned us not to get too excited about any preliminary results. Although he was normally the most enthusiastic faculty member we knew—brimming with big ideas and excited about new data—he sternly reminded us that we would need many more weeks to confirm the findings and interpret them properly. But as we leaned over his computer in our lab back in Toronto, our first glimpse of the results hinted that a radical shift had occurred in our participants moments after they joined a mixed-race team.
+
+Each subject’s brain responses reflected the person’s new identity as a Leopard or a Tiger. Unlike in previous studies, we could see that our participants were not responding to the race of the faces but to their new group identity—their team. More specifically, we observed greater activity in our participants’ amygdalae when they saw members of their in-group compared to members of the out-group—and, critically, this occurred regardless of their teammates’ race. Now that another identity was central to the situation, race had little to no bearing on how their brains responded to the faces.
+
+The greater activation we observed in the amygdalae when people saw in-group faces was consistent with our findings that this region responds to things that are highly relevant to people. Their brains reflected a newfound affinity for the in-group that was most salient to them at that moment. Far from being wired for racism, our brains are, if anything, wired for social identity.
+
+We then examined other measures of bias using data we collected during the study. We had asked people to report how much they liked or disliked each of the faces they saw. Mirroring their brain activity, people reported liking members of their in-group significantly more than members of the out-group. And again, this was unrelated to race. People liked both the Black and White members of their team equally and they felt fairly neutral toward the out-group.
+
+Over the past fifteen years, in studies with larger samples at other universities and in another country, we have repeatedly found similar results.18 For instance, in a study we ran with developmental neuroscientists João Guassi Moreira and Eva Telzer, we observed similar patterns of in-group bias in brain responses and behavior in children as young as eight years old.19 The effects grew larger with age. By middle adolescence, there was a very strong relationship between their amygdalae activity toward in-group members and the level of in-group favoritism they reported to our research team.
+
+Even on implicit measures, people consistently express a preference for members of newly created in-groups compared to out-groups. And seemingly trivial new identities like these are able to override the typical patterns of racial bias that show up time and again. Other labs have noted similar results.20 Whether scientists are studying novel teams like the Leopards and Tigers, college rivalries, or political identities, these sorts of allegiances are consistently able to override implicit racial biases. This underscores the power of identity.
+
+In one of the largest studies, involving more than seventeen thousand participants, Calvin Lai and his colleagues tested seventeen different possible strategies for reducing implicit racial bias.21 They found that shifting group boundaries to form new identities, as we had done, was one of the most effective. Mere membership in a group is sufficient to change one’s identity and preferences. It can bridge old divides, like race, while creating new ones. In this way, identity is, of course, a mixed blessing—it can bring you closer to a stranger but also push you away from a neighbor.
+
+This is not to say we expected that the new and artificial identities we created in the lab would forever override racial biases or necessarily do so even once participants left the brain-imaging facility. We have seen that racial and other biases are far too robust for that, grounded as they are in persistently inequitable social systems.
+
+In their study of bias-reduction strategies, Lai and colleagues found that even successful interventions tended not to have very long-lasting effects. In the case of novel identities, the power of a new team to override implicit and automatic racist reactions seemed to dissipate within twenty-four hours. Once people are back among the structures and patterns of their regular worlds, race-based divisions reassert themselves. However, these lab-based studies provide a powerful proof of concept, showing how creating identities might provide solutions to bias—if only we can sustain them.
+
+The next question is whether one can take these sorts of findings from the lab and apply them to the real world, where it matters. Can building more robust real-world identities have enduring benefits for intergroup harmony? Luckily for us, other scholars have investigated just that.
+
+
+
+
+
+The Soccer Cure
+
+
+In 2014, ISIS, a jihadist group that follows a fundamentalist variant of Sunni Islam, committed genocide against religious minorities in northern Iraq. The terrorist group became known and feared around the world for videos of executions, often by beheading their victims. By June, they had declared themselves a worldwide caliphate and began referring to themselves as the Islamic State.
+
+As the ISIS campaign advanced, a great many people were forced to flee their homes and live in refugee camps. Eventually, after their cities were liberated following the Battle of Mosul in 2016, refugees were able to trickle back to their homes. Many found their neighborhoods destroyed. What ISIS and their combatants had not looted, they had torched on the way out. They left a path of devastation in their wake.
+
+These events decimated social cohesion in the region and were especially damaging to relations between Muslims and Christians. According to a sample of 476 Christians, 46 percent found their homes looted and 36 percent returned to find their homes destroyed. Four percent also reported family members missing or killed.
+
+Christians felt deeply betrayed by the Sunnis, whom they often viewed as collaborators with ISIS. And most Muslims now felt uncomfortable in Christian areas. It was a time of incredible tension.
+
+In the face of this tragedy and chaos, Salma Mousa, a then PhD student at Stanford University, wanted to study whether meaningful contact between members of these groups could begin to rebuild tolerance.22 Despite the vast differences between these religious groups, they did have something in common: a passion for soccer. Working with local partners, she set up four soccer leagues to see if she could create positive contact and thereby provide a foundation for social cohesion in the aftermath of violence and devastation.
+
+Team sports, like soccer, provide many of the keys for effective identity building: cooperation, a common goal, and roughly equal power among members. Leveraging the social power of team sports and the universal popularity of soccer, Salma recruited fifty-one amateur Christian teams and invited them to join a league in Ankawa and Qaraqosh.
+
+But there was a catch.
+
+Like much of life in these cities, amateur sports were largely segregated by religion. But Salma made each team agree to add three or four new players to its squad—players who might or might not be Christian. Plenty of eyebrows were raised. Some coaches threatened to walk away from the league.
+
+Despite their initial protests, however, all the teams eventually agreed to these conditions. This increased the size of each team by several players. Half the teams received additional Christian players and the other half received Muslim players.
+
+The average player was twenty-four years old, unmarried, unemployed, with a high-school degree and a household income of roughly five hundred dollars per month. Initial surveys also revealed that the average Christian player had no Muslim friends, believed Muslims were cursed, and would not consider selling land to Muslims. But, more hopefully, the Christians also believed that Iraqis should treat one another as Iraqis first.
+
+With the blessing of religious leaders, Mousa and her team handed out uniforms and started the league. The teams played together for two months either before or after the scorching summer months when temperatures in Iraq can reach 115 degrees.
+
+What happened? Did this ambitious experiment cool the temperature between Christians and Muslims or was it no better than spending the summer in a traditional league? Or did things get even worse as people were forced into contact with members of a distrusted out-group?
+
+The results were striking, and yet they were consistent with what we found in the laboratory in North America. At the end of the season, Christian players on mixed-religion teams were more willing to train with Muslims in the future, vote for a Muslim to win a sportsmanship prize, and sign up for a mixed-religion team the next season. By sharing a group identity and working together, they were able to bridge what had seemed like an impossible divide.
+
+Mousa’s study also found that team success amplified these effects. As anyone who has ever played with a championship team can tell you, success can forge an especially strong sense of shared identity, and connections between teammates can last for years. For Christian players on more successful mixed-religion teams, the warm glow of winning spilled over into their treatment of other Muslims, people who were not on their team. Three months later, they were more likely to visit a restaurant in a Muslim city and attend another mixed-religion social event.
+
+These positive behaviors were less common among Christians who played on all-Christian teams. Cooperating with members of religious out-groups as teammates in possession of a common identity was far better for tolerance than competing against them.
+
+This study seems remarkable even to us. That soccer identities can start to help overcome the fallout from religious genocide is hard to fathom. But in many ways, team sports are the perfect antidote to intergroup conflict. When a diverse group of people work together and adopt an identity, they develop camaraderie that, under the right conditions, extends to how they feel about each others’ groups more broadly.
+
+A sense of shared identity can extend beyond the field to fans sitting in the stands or watching at home. When Mohamed Salah, a Muslim soccer player, joined the Liverpool football club in Britain, it had a profound effect on fans. Salma Mousa and her colleagues analyzed hate-crime reports and over fifteen million tweets from soccer fans.23 They observed that hate crimes in the Liverpool area dropped by 16 percent and that anti-Muslim tweets dropped by nearly half among Liverpool fans compared to fans from other clubs.
+
+The lessons are hopeful ones: sharing a common identity can make people more tolerant of teammates and fellow in-group members from different ethnic and religious backgrounds. Yet in many places, there are powerful institutional and structural barriers to sustaining these sorts of connections.
+
+
+
+
+
+Institutional Biases
+
+
+People are growing more aware that biases—whether in the form of racism, sexism, homophobia, or dis-ableism, to name a few—are not just in the heads of individuals. This is not only a psychological issue that can be resolved by changing hearts, minds, or social identities. Bias is also baked into our institutions, organizations, and social structures. Bias is a feature in the setup of many of our political, financial, corporate, justice, health, and other systems.
+
+When we talk about “institutional bias,” we find it helpful to distinguish between two ways that bias can manifest within institutions and organizations. One occurs when people employed by important institutions make biased decisions in the course of their work. This might be because they possess explicit prejudice or it might be because they are susceptible to the sorts of implicit biases we have talked about.
+
+For example, people who work on the front lines of important institutions—police officers, doctors and nurses, judges, admissions officers and faculty at universities, mortgage brokers, and real estate agents—hold significant power within their domains. They make choices daily that affect people’s lives. If these individuals are biased as they enact the power of their institutions, it matters. In an earlier chapter, we talked about a study of police traffic stops that found that Black and Hispanic drivers were more likely to be stopped and searched by officers than White drivers were.24 We know that these differences were due to bias because they were larger during daylight hours, when officers were able to see the race of the drivers more easily than at night. Further, although Black drivers were less likely to be in possession of illegal materials than White drivers were, Black drivers were searched at higher rates, which resulted in more arrests.’
+
+Similarly, judges often apply harsher sentences to Black suspects. Sexist professors are less likely to respond to e-mail inquiries from female students or might do so more rudely. And prejudiced doctors might provide worse medical care to members of minority communities. In some cases, these decisions are life-and-death.
+
+But a second form of institutional bias is less psychological and more structural. These biases are built right into the policies, procedures, and rules by which organizations operate. They are intrinsic to the way things work and are not dependent on whether individuals are or are not biased themselves. They happen anyway because the disparate outcomes that they cause lie outside of individuals’ discretion and control. Institutional biases like this are often legacies of the past that, due to the inertia that is part of many organizations, technologies, and social systems, have never been changed. Perhaps they have never even been questioned.
+
+A fascinating analysis by Consumer Reports illustrated how biases built into safety testing have resulted in significantly more automobile injuries and deaths for women than men.25 In the United States, female drivers and front passengers are about 17 percent more likely to be killed in a car accident than males, and women are 73 percent more likely to be seriously injured in a crash. Why?
+
+The safety features on cars, which have advanced significantly over time, are based largely on the results of crash-testing. These tests are performed almost exclusively with male crash-test dummies—more specifically, with dummies modeled on a typical American male body from the 1970s: 171 pounds and 5 feet, 9 inches tall. It turns out that female and male bodies are sufficiently different that designing safety features to maximize male safety results in fatal gender disparities on the road.
+
+When Consumer Reports spoke to industry experts, they heard various explanations: “Some say that developing new dummies and tests is unnecessary or too expensive, or would take too much time.” It is not necessary for anyone involved to be overtly sexist (though some might be); all it takes is an aversion toward changing the status quo. Thus, a decision made by engineers in the 1970s about how to conduct safety tests continues to threaten the lives of millions of women today.
+
+This is one reason why having women and other underrepresented groups at executive levels in companies is important. As of June 2019, Ford had the most female executives of all the large car manufacturers, with about 27 percent of vice president and above positions held by women. If there were more women in senior management at major automakers, we suspect that this sort of safety issue would have received greater attention. Companies with better gender representation in management might well have caught the problem earlier and could have saved countless lives.
+
+Another of the most notorious examples of institutional or structural discrimination is the disparity in sentencing guidelines for different forms of cocaine in the United States. Responding to concerns (some have said “hysteria”) about a so-called crack epidemic in the 1980s, lawmakers decided the federal penalties for possession of crack cocaine should be one hundred times more severe than the penalties for possession of the same amount of powder cocaine. Thus, someone convicted of holding five grams of crack cocaine would get the same five-year mandatory minimum sentence as someone convicted of possessing five hundred grams of powder cocaine.
+
+The two forms are essentially chemically identical and have virtually the same physiological and addictive properties. But powder cocaine was the stereotypical drug of choice for wealthy white-collar types; crack cocaine was associated with poor and often Black communities.
+
+A 2006 report from the American Civil Liberties Union concluded that “the sentencing disparities in punishing crack cocaine offenses more harshly than powder cocaine offenses unjustly and disproportionately penalize African American defendants for drug trafficking comparable to that of white defendants. Compounding this problem is the fact that whites are disproportionately less likely to be prosecuted for drug offenses in the first place.”26 In 2010, Congress revised the sentencing guidelines down from a one-hundred-to-one disparity to an eighteen-to-one disparity. This was progress, but cocaine sentencing policy remains a form of institutionalized bias and is still an issue today.
+
+The consequences of these forms of institutional bias are huge, yet they don’t require psychological bias in the minds of the car executives or the judges who are dealing with these issues. Institutional bias is wired into the way our organizations and institutions work, whether through laws and legislation, rules, policies, or procedures.
+
+Prestigious universities often have what they call “legacy” admissions policies, which give preferential treatment to the children of alumni or donors. Because White people have, on average, had more historical access to higher education and possess more wealth to donate, these systems continue to advantage White students.
+
+In the case of policing, city governments and politicians set policies and priorities that influence where officers are sent on patrol. If these policies send more officers to poor and minority neighborhoods than to predominantly White and wealthy ones, then as a function of numbers alone, there will be more traffic stops—and arrests—of poor and minority people.
+
+These problems can be worsened by technology. If algorithms are trained on data sets of past college admission decisions or prior neighborhood crime rates, they can lead to decisions that will continue to disadvantage members of historically disenfranchised communities.27 In some cases, these biases are made worse by technology because design features and machine-learning algorithms can obscure sources of bias and give the appearance of objective decision-making.
+
+One place where this occurs is on peer-to-peer platforms. Each year, people around the world book more than seven hundred million Airbnb rentals and take more than ten billion Uber trips. But there is growing evidence of discrimination on these platforms. Airbnb users with Black-sounding names, for example, are less likely to be accepted as guests, and apartments belonging to Black Airbnb hosts are priced 10 percent lower than similar apartments owned by White hosts. It might seem an impossible task to eradicate the biases—implicit or explicit—of the vast number of Airbnb users. But we found that simply changing how the platform presents key information might be enough to reduce discriminatory outcomes.
+
+In a series of experiments led by Katrine Berg Nødtvedt and Hallgeir Sjåstad at the Norwegian School of Economics, we examined solutions for reducing racial bias in the sharing economy.28 When we gave Norwegian customers the option to rent an Airbnb apartment or hotel, they were 25 percent more likely to choose the apartment when it was hosted by a racial in-group member than when it was hosted by a racial out-group member. However, when we provided a simple cue about trust—a five-star rating from other customers—this pattern of bias completely went away. When these ratings were less visible (or mediocre), people continued to discriminate.
+
+The lesson here is not that we eradicated bias in the minds of potential customers. Instead, we altered the way the platform displayed critical information. The race of the hosts might affect consumers because it is linked to racial stereotypes about whom they should trust. But if crowdsourcing provides alternative, reality-based information about the actual trustworthiness of hosts, guests are happy to stay with people from a different racial background. If companies in the peer-to-peer economy want to reduce racial bias, they should design websites and apps that feature this reputational information more prominently than the identity of the hosts.
+
+Cleaning up our institutions and improving technology to reduce disparate treatment of different groups is a moral imperative. Further, creating fairer and more effective rules, policies, and procedures may have cascading positive consequences beyond the institutions themselves. The existence of transparent, fair, and effective institutions might make people in general less likely to discriminate in favor of their shared groups and social identities.
+
+Earlier, we described the coalitional psychology that our species might have evolved to help us navigate our ancestral environments. People are always on the lookout for allies and wary of potential enemies. Allyship grounded in shared social identities is one way to protect ourselves and to increase the odds that the people we’re interacting with are trustworthy and will treat us well. Having loyal friends is one way to hedge our bets in a chaotic world.
+
+But many of the institutions our societies have developed can serve this same function. For example, if you are lucky enough to live in a society with a legal system that works reasonably effectively and fairly, it helps you feel secure in your interactions with a broad array of other people. If you know that, generally speaking, people who rob or defraud others are caught and punished, you can expect that the legal system will act as a deterrent to anyone who might be tempted to rob you. If you know that contracts are enforceable, you can expect to have legal recourse if you are cheated in a transaction.29
+
+Without effective institutions, people may opt to restrict their circle of trust to those with whom they already have a connection, either in the form of a personal relationship or through a shared social identity. They may choose to selectively hire, do business, or otherwise affiliate with people like themselves because it feels like a safer bet. But where there are effective institutions that support good behavior across whole societies, the circle of trust can safely open up to include people without prior personal or group connections. Perhaps for this reason, we have found that the more people trust important social institutions, including the government, legal system, and police, the more comfortable they are interacting with members of other racial groups.
+
+We have also found evidence that institution-like structures can reduce implicit biases. In two experiments, we had White students come into the lab and told them that later on in the study, they would play a series of games with other students.30 They could see from photos that some of the other students were White and some were Black. The games required a level of trust because there was always the possibility that the other students might cheat. But we informed half of the participants that everyone would be monitored by an observer who would punish bad behavior. In other words, someone would play the role of a disinterested enforcer and make it less likely that their partners would cheat.
+
+After we had told them about this setup but before they actually played the games, we had the students complete a measure of implicit racial bias. When White participants expected to play games where someone was monitoring behavior, they showed no implicit preference for White over Black faces. When they expected to play games without this trust-enhancing feature, however, they showed a typical pattern of pro-White implicit bias.
+
+The results were similar to what we saw when we assigned people to mixed-race teams like the Leopards and the Tigers—implicit racial bias was eliminated. But here, there were no teams. Having an institutional-type structure to promote trust between people reduced bias even in the absence of a shared identity. Promoting trust between people—in this case, in the form of a fairness enforcer—might reduce our need for teams in the first place.
+
+
+
+
+
+Taking Action
+
+
+Now, having looked in some depth at the nature of bias—implicit bias especially—it is time to return to the question posed by Senator John Kennedy to Merrick Garland. “Does [implicit bias] mean I’m a racist, no matter what I do or what I think?”
+
+Garland gave a sophisticated response. “That label racist,” he said, “is not one that I would apply like that. Implicit bias just means that every human being has biases. The point of examining our implicit biases is to bring our conscious mind up to our unconscious mind—and to know when we’re behaving in a stereotyped way.”
+
+There certainly are beliefs, overtly held, endorsed, even enthusiastically promoted, that are blatantly and obviously racist. Some groups believe it is right to dominate others. The sorts of rapid implicit biases that psychologists have uncovered and that appear to be widespread are not racist in that sense. Indeed, many people are dismayed when they take a bias test and find that their responses indicate a preference for male over female faces, White over Black faces, or younger over older faces, because these biases are at odds with their beliefs about how the world should work. They value egalitarianism and are horrified to learn that a part of their mind seems to harbor very different sentiments.
+
+In our view, the question of whether implicit bias makes you racist (or sexist or ageist or biased against any particular group) is not answered by whether you have bias but by what you do with that information once you know it. If we seek a more just and equitable world, what people are doing to address disparities and discrimination is more important than what score they get on an implicit bias test. In fact, your implicit bias score can change a good deal from one moment to the next (partly as a result of shifting identities and trust cues, as we have discussed), making it an unreliable indicator of your own attitudes anyway. Conversely, it does not matter all that much if politicians do not have a racist bone in their bodies, as they often proclaim, if the decisions they make perpetuate racial disparities.
+
+There is a fear that because implicit bias seems to suggest that people’s reactions to different groups are beyond their full conscious control, they are not responsible if they behave in discriminatory ways. This treats implicit bias as an excuse, a “get out of jail free” card.
+
+To counter this, the two of us would go a step further than Merrick Garland did in his congressional testimony. The point of examining bias, implicit and otherwise, is so we can understand that our minds sometimes produce behaviors and outcomes that are inconsistent with our broader beliefs and values. And recognizing this, we can take control, exerting agency to challenge ourselves and others to build a better world.
+
+Of course, changing the deeply rooted inequities embedded in our societies will take significantly more than a simple laboratory manipulation or even a major intervention on the soccer pitch. It will also take more than a quick course of anti-bias training. These can represent important first steps. But, as we discuss in the next chapter, serious and sustained change takes organized and collective action, first to identify and then to root out the structures that produce disparate opportunities and outcomes. It takes solidarity.
